@@ -1,0 +1,15 @@
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Kaczki\Kaczki\bin\Debug\net8.0\Kaczki.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Kaczki\Kaczki\bin\Debug\net8.0\Kaczki.deps.json
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Kaczki\Kaczki\bin\Debug\net8.0\Kaczki.runtimeconfig.json
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Kaczki\Kaczki\bin\Debug\net8.0\Kaczki.dll
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Kaczki\Kaczki\bin\Debug\net8.0\Kaczki.pdb
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Kaczki\Kaczki\obj\Debug\net8.0\Kaczki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Kaczki\Kaczki\obj\Debug\net8.0\Kaczki.AssemblyInfoInputs.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Kaczki\Kaczki\obj\Debug\net8.0\Kaczki.AssemblyInfo.cs
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Kaczki\Kaczki\obj\Debug\net8.0\Kaczki.csproj.CoreCompileInputs.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Kaczki\Kaczki\obj\Debug\net8.0\Kaczki.sourcelink.json
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Kaczki\Kaczki\obj\Debug\net8.0\Kaczki.dll
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Kaczki\Kaczki\obj\Debug\net8.0\refint\Kaczki.dll
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Kaczki\Kaczki\obj\Debug\net8.0\Kaczki.pdb
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Kaczki\Kaczki\obj\Debug\net8.0\Kaczki.genruntimeconfig.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Kaczki\Kaczki\obj\Debug\net8.0\ref\Kaczki.dll

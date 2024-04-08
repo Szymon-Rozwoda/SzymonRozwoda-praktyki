@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\Kaczki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F605F530-859F-4C4A-A557-BDE311216B34}|Kaczki\\Kaczki.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\kaczki\\kaczki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F605F530-859F-4C4A-A557-BDE311216B34}|Kaczki\\Kaczki.csproj|solutionrelative:kaczki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\Kaczki\\Kaczki\\Program.cs",
+              "RelativeDocumentMoniker": "Kaczki\\Program.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\Kaczki\\Kaczki\\Program.cs",
+              "RelativeToolTip": "Kaczki\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T07:56:29.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
