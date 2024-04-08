@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\talie_kart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6030E610-7807-45F4-ADC4-B3FA8AC004AD}|talie_kart\\talie_kart.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\talie_kart\\talie_kart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6030E610-7807-45F4-ADC4-B3FA8AC004AD}|talie_kart\\talie_kart.csproj|solutionrelative:talie_kart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6030E610-7807-45F4-ADC4-B3FA8AC004AD}|talie_kart\\talie_kart.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\talie_kart\\talie_kart\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6030E610-7807-45F4-ADC4-B3FA8AC004AD}|talie_kart\\talie_kart.csproj|solutionrelative:talie_kart\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6030E610-7807-45F4-ADC4-B3FA8AC004AD}|talie_kart\\talie_kart.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\talie_kart\\talie_kart\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6030E610-7807-45F4-ADC4-B3FA8AC004AD}|talie_kart\\talie_kart.csproj|solutionrelative:talie_kart\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6030E610-7807-45F4-ADC4-B3FA8AC004AD}|talie_kart\\talie_kart.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\talie_kart\\talie_kart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6030E610-7807-45F4-ADC4-B3FA8AC004AD}|talie_kart\\talie_kart.csproj|solutionrelative:talie_kart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\talie_kart\\talie_kart\\Card.cs",
+              "RelativeDocumentMoniker": "talie_kart\\Card.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\talie_kart\\talie_kart\\Card.cs",
+              "RelativeToolTip": "talie_kart\\Card.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:27:57.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\talie_kart\\talie_kart\\Deck.cs",
+              "RelativeDocumentMoniker": "talie_kart\\Deck.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\talie_kart\\talie_kart\\Deck.cs",
+              "RelativeToolTip": "talie_kart\\Deck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T08:55:19.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\talie_kart\\talie_kart\\Form1.cs",
+              "RelativeDocumentMoniker": "talie_kart\\Form1.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\talie_kart\\talie_kart\\Form1.cs",
+              "RelativeToolTip": "talie_kart\\Form1.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T08:46:11.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\talie_kart\\talie_kart\\Form1.cs",
+              "RelativeDocumentMoniker": "talie_kart\\Form1.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\talie_kart\\talie_kart\\Form1.cs [Projekt]",
+              "RelativeToolTip": "talie_kart\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T08:36:36.419Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

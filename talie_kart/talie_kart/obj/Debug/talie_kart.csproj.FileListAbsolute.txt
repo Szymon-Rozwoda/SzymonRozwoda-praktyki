@@ -1,0 +1,10 @@
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\talie_kart\talie_kart\bin\Debug\talie_kart.exe.config
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\talie_kart\talie_kart\bin\Debug\talie_kart.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\talie_kart\talie_kart\bin\Debug\talie_kart.pdb
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\talie_kart\talie_kart\obj\Debug\talie_kart.csproj.AssemblyReference.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\talie_kart\talie_kart\obj\Debug\talie_kart.Form1.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\talie_kart\talie_kart\obj\Debug\talie_kart.Properties.Resources.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\talie_kart\talie_kart\obj\Debug\talie_kart.csproj.GenerateResource.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\talie_kart\talie_kart\obj\Debug\talie_kart.csproj.CoreCompileInputs.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\talie_kart\talie_kart\obj\Debug\talie_kart.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\talie_kart\talie_kart\obj\Debug\talie_kart.pdb
