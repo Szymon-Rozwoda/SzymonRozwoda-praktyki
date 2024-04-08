@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xopero\\source\\repos\\kalkulator_przyjec2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5ED28E-0A2A-4658-A2C7-09D1697FED7C}|kalkulator_przyjec2\\kalkulator_przyjec2.csproj|c:\\users\\xopero\\source\\repos\\kalkulator_przyjec2\\kalkulator_przyjec2\\birthdayparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5ED28E-0A2A-4658-A2C7-09D1697FED7C}|kalkulator_przyjec2\\kalkulator_przyjec2.csproj|solutionrelative:kalkulator_przyjec2\\birthdayparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5ED28E-0A2A-4658-A2C7-09D1697FED7C}|kalkulator_przyjec2\\kalkulator_przyjec2.csproj|c:\\users\\xopero\\source\\repos\\kalkulator_przyjec2\\kalkulator_przyjec2\\dinnerparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5ED28E-0A2A-4658-A2C7-09D1697FED7C}|kalkulator_przyjec2\\kalkulator_przyjec2.csproj|solutionrelative:kalkulator_przyjec2\\dinnerparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5ED28E-0A2A-4658-A2C7-09D1697FED7C}|kalkulator_przyjec2\\kalkulator_przyjec2.csproj|c:\\users\\xopero\\source\\repos\\kalkulator_przyjec2\\kalkulator_przyjec2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5ED28E-0A2A-4658-A2C7-09D1697FED7C}|kalkulator_przyjec2\\kalkulator_przyjec2.csproj|solutionrelative:kalkulator_przyjec2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5ED28E-0A2A-4658-A2C7-09D1697FED7C}|kalkulator_przyjec2\\kalkulator_przyjec2.csproj|c:\\users\\xopero\\source\\repos\\kalkulator_przyjec2\\kalkulator_przyjec2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C5ED28E-0A2A-4658-A2C7-09D1697FED7C}|kalkulator_przyjec2\\kalkulator_przyjec2.csproj|solutionrelative:kalkulator_przyjec2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5ED28E-0A2A-4658-A2C7-09D1697FED7C}|kalkulator_przyjec2\\kalkulator_przyjec2.csproj|c:\\users\\xopero\\source\\repos\\kalkulator_przyjec2\\kalkulator_przyjec2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5ED28E-0A2A-4658-A2C7-09D1697FED7C}|kalkulator_przyjec2\\kalkulator_przyjec2.csproj|solutionrelative:kalkulator_przyjec2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BirthdayParty.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\source\\repos\\kalkulator_przyjec2\\kalkulator_przyjec2\\BirthdayParty.cs",
+              "RelativeDocumentMoniker": "kalkulator_przyjec2\\BirthdayParty.cs",
+              "ToolTip": "C:\\Users\\xopero\\source\\repos\\kalkulator_przyjec2\\kalkulator_przyjec2\\BirthdayParty.cs",
+              "RelativeToolTip": "kalkulator_przyjec2\\BirthdayParty.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAmwDsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T10:56:08.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DinnerParty.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\source\\repos\\kalkulator_przyjec2\\kalkulator_przyjec2\\DinnerParty.cs",
+              "RelativeDocumentMoniker": "kalkulator_przyjec2\\DinnerParty.cs",
+              "ToolTip": "C:\\Users\\xopero\\source\\repos\\kalkulator_przyjec2\\kalkulator_przyjec2\\DinnerParty.cs",
+              "RelativeToolTip": "kalkulator_przyjec2\\DinnerParty.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T10:36:07.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\source\\repos\\kalkulator_przyjec2\\kalkulator_przyjec2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "kalkulator_przyjec2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\xopero\\source\\repos\\kalkulator_przyjec2\\kalkulator_przyjec2\\Form1.Designer.cs",
+              "RelativeToolTip": "kalkulator_przyjec2\\Form1.Designer.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAewFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T10:32:05.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\source\\repos\\kalkulator_przyjec2\\kalkulator_przyjec2\\Form1.cs",
+              "RelativeDocumentMoniker": "kalkulator_przyjec2\\Form1.cs",
+              "ToolTip": "C:\\Users\\xopero\\source\\repos\\kalkulator_przyjec2\\kalkulator_przyjec2\\Form1.cs",
+              "RelativeToolTip": "kalkulator_przyjec2\\Form1.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAmwDkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T10:21:02.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\xopero\\source\\repos\\kalkulator_przyjec2\\kalkulator_przyjec2\\Form1.cs",
+              "RelativeDocumentMoniker": "kalkulator_przyjec2\\Form1.cs",
+              "ToolTip": "C:\\Users\\xopero\\source\\repos\\kalkulator_przyjec2\\kalkulator_przyjec2\\Form1.cs [Projekt]",
+              "RelativeToolTip": "kalkulator_przyjec2\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T10:19:59.515Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

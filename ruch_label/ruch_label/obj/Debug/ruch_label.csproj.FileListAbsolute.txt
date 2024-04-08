@@ -1,0 +1,10 @@
+C:\Users\xopero\source\repos\ruch_label\ruch_label\bin\Debug\ruch_label.exe.config
+C:\Users\xopero\source\repos\ruch_label\ruch_label\bin\Debug\ruch_label.exe
+C:\Users\xopero\source\repos\ruch_label\ruch_label\bin\Debug\ruch_label.pdb
+C:\Users\xopero\source\repos\ruch_label\ruch_label\obj\Debug\ruch_label.csproj.AssemblyReference.cache
+C:\Users\xopero\source\repos\ruch_label\ruch_label\obj\Debug\ruch_label.Form1.resources
+C:\Users\xopero\source\repos\ruch_label\ruch_label\obj\Debug\ruch_label.Properties.Resources.resources
+C:\Users\xopero\source\repos\ruch_label\ruch_label\obj\Debug\ruch_label.csproj.GenerateResource.cache
+C:\Users\xopero\source\repos\ruch_label\ruch_label\obj\Debug\ruch_label.csproj.CoreCompileInputs.cache
+C:\Users\xopero\source\repos\ruch_label\ruch_label\obj\Debug\ruch_label.exe
+C:\Users\xopero\source\repos\ruch_label\ruch_label\obj\Debug\ruch_label.pdb

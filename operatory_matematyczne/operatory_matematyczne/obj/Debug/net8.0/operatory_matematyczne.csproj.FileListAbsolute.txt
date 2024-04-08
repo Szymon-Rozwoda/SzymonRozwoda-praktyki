@@ -1,0 +1,15 @@
+C:\Users\xopero\source\repos\operatory_matematyczne\operatory_matematyczne\bin\Debug\net8.0\operatory_matematyczne.exe
+C:\Users\xopero\source\repos\operatory_matematyczne\operatory_matematyczne\bin\Debug\net8.0\operatory_matematyczne.deps.json
+C:\Users\xopero\source\repos\operatory_matematyczne\operatory_matematyczne\bin\Debug\net8.0\operatory_matematyczne.runtimeconfig.json
+C:\Users\xopero\source\repos\operatory_matematyczne\operatory_matematyczne\bin\Debug\net8.0\operatory_matematyczne.dll
+C:\Users\xopero\source\repos\operatory_matematyczne\operatory_matematyczne\bin\Debug\net8.0\operatory_matematyczne.pdb
+C:\Users\xopero\source\repos\operatory_matematyczne\operatory_matematyczne\obj\Debug\net8.0\operatory_matematyczne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xopero\source\repos\operatory_matematyczne\operatory_matematyczne\obj\Debug\net8.0\operatory_matematyczne.AssemblyInfoInputs.cache
+C:\Users\xopero\source\repos\operatory_matematyczne\operatory_matematyczne\obj\Debug\net8.0\operatory_matematyczne.AssemblyInfo.cs
+C:\Users\xopero\source\repos\operatory_matematyczne\operatory_matematyczne\obj\Debug\net8.0\operatory_matematyczne.csproj.CoreCompileInputs.cache
+C:\Users\xopero\source\repos\operatory_matematyczne\operatory_matematyczne\obj\Debug\net8.0\operatory_matematyczne.sourcelink.json
+C:\Users\xopero\source\repos\operatory_matematyczne\operatory_matematyczne\obj\Debug\net8.0\operatory_matematyczne.dll
+C:\Users\xopero\source\repos\operatory_matematyczne\operatory_matematyczne\obj\Debug\net8.0\refint\operatory_matematyczne.dll
+C:\Users\xopero\source\repos\operatory_matematyczne\operatory_matematyczne\obj\Debug\net8.0\operatory_matematyczne.pdb
+C:\Users\xopero\source\repos\operatory_matematyczne\operatory_matematyczne\obj\Debug\net8.0\operatory_matematyczne.genruntimeconfig.cache
+C:\Users\xopero\source\repos\operatory_matematyczne\operatory_matematyczne\obj\Debug\net8.0\ref\operatory_matematyczne.dll

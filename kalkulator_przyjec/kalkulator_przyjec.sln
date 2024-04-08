@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kalkulator_przyjec", "kalkulator_przyjec\kalkulator_przyjec.csproj", "{4CE5D1E9-B3F4-4E71-9B2F-72245EFBD676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CE5D1E9-B3F4-4E71-9B2F-72245EFBD676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE5D1E9-B3F4-4E71-9B2F-72245EFBD676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE5D1E9-B3F4-4E71-9B2F-72245EFBD676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE5D1E9-B3F4-4E71-9B2F-72245EFBD676}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EA8DCD5-A222-4F2A-AC6A-4CAE6AA3F825}
+	EndGlobalSection
+EndGlobal

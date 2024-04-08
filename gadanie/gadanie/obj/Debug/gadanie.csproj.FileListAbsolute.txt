@@ -1,0 +1,10 @@
+C:\Users\xopero\source\repos\gadanie\gadanie\bin\Debug\gadanie.exe.config
+C:\Users\xopero\source\repos\gadanie\gadanie\bin\Debug\gadanie.exe
+C:\Users\xopero\source\repos\gadanie\gadanie\bin\Debug\gadanie.pdb
+C:\Users\xopero\source\repos\gadanie\gadanie\obj\Debug\gadanie.csproj.AssemblyReference.cache
+C:\Users\xopero\source\repos\gadanie\gadanie\obj\Debug\gadanie.Form1.resources
+C:\Users\xopero\source\repos\gadanie\gadanie\obj\Debug\gadanie.Properties.Resources.resources
+C:\Users\xopero\source\repos\gadanie\gadanie\obj\Debug\gadanie.csproj.GenerateResource.cache
+C:\Users\xopero\source\repos\gadanie\gadanie\obj\Debug\gadanie.csproj.CoreCompileInputs.cache
+C:\Users\xopero\source\repos\gadanie\gadanie\obj\Debug\gadanie.exe
+C:\Users\xopero\source\repos\gadanie\gadanie\obj\Debug\gadanie.pdb

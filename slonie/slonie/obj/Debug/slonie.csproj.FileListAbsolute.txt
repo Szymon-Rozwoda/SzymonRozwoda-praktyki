@@ -1,0 +1,10 @@
+C:\Users\xopero\source\repos\slonie\slonie\bin\Debug\slonie.exe.config
+C:\Users\xopero\source\repos\slonie\slonie\bin\Debug\slonie.exe
+C:\Users\xopero\source\repos\slonie\slonie\bin\Debug\slonie.pdb
+C:\Users\xopero\source\repos\slonie\slonie\obj\Debug\slonie.csproj.AssemblyReference.cache
+C:\Users\xopero\source\repos\slonie\slonie\obj\Debug\slonie.Form1.resources
+C:\Users\xopero\source\repos\slonie\slonie\obj\Debug\slonie.Properties.Resources.resources
+C:\Users\xopero\source\repos\slonie\slonie\obj\Debug\slonie.csproj.GenerateResource.cache
+C:\Users\xopero\source\repos\slonie\slonie\obj\Debug\slonie.csproj.CoreCompileInputs.cache
+C:\Users\xopero\source\repos\slonie\slonie\obj\Debug\slonie.exe
+C:\Users\xopero\source\repos\slonie\slonie\obj\Debug\slonie.pdb

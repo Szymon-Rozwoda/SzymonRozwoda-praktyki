@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zarzadzanie_pszczolami", "zarzadzanie_pszczolami\zarzadzanie_pszczolami.csproj", "{AC414C4B-2C1F-4531-945A-2F545C2E6572}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC414C4B-2C1F-4531-945A-2F545C2E6572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC414C4B-2C1F-4531-945A-2F545C2E6572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC414C4B-2C1F-4531-945A-2F545C2E6572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC414C4B-2C1F-4531-945A-2F545C2E6572}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD315FA8-D108-4449-9F34-090A14F279EE}
+	EndGlobalSection
+EndGlobal

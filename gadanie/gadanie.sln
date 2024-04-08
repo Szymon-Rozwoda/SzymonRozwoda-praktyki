@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gadanie", "gadanie\gadanie.csproj", "{5D16C598-061F-41A3-AD76-536D59067222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D16C598-061F-41A3-AD76-536D59067222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D16C598-061F-41A3-AD76-536D59067222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D16C598-061F-41A3-AD76-536D59067222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D16C598-061F-41A3-AD76-536D59067222}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F34F617C-51C1-4F2E-9EEE-D07CCBCAF765}
+	EndGlobalSection
+EndGlobal

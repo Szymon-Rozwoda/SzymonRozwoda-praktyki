@@ -1,0 +1,10 @@
+C:\Users\xopero\source\repos\kanapki\kanapki\bin\Debug\kanapki.exe.config
+C:\Users\xopero\source\repos\kanapki\kanapki\bin\Debug\kanapki.exe
+C:\Users\xopero\source\repos\kanapki\kanapki\bin\Debug\kanapki.pdb
+C:\Users\xopero\source\repos\kanapki\kanapki\obj\Debug\kanapki.csproj.AssemblyReference.cache
+C:\Users\xopero\source\repos\kanapki\kanapki\obj\Debug\kanapki.Form1.resources
+C:\Users\xopero\source\repos\kanapki\kanapki\obj\Debug\kanapki.Properties.Resources.resources
+C:\Users\xopero\source\repos\kanapki\kanapki\obj\Debug\kanapki.csproj.GenerateResource.cache
+C:\Users\xopero\source\repos\kanapki\kanapki\obj\Debug\kanapki.csproj.CoreCompileInputs.cache
+C:\Users\xopero\source\repos\kanapki\kanapki\obj\Debug\kanapki.exe
+C:\Users\xopero\source\repos\kanapki\kanapki\obj\Debug\kanapki.pdb

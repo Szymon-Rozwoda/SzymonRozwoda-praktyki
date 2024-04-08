@@ -1,0 +1,17 @@
+C:\Users\xopero\source\repos\Kosmici5\Kosmici5\bin\Debug\Kosmici5.exe.config
+C:\Users\xopero\source\repos\Kosmici5\Kosmici5\bin\Debug\Kosmici5.exe
+C:\Users\xopero\source\repos\Kosmici5\Kosmici5\bin\Debug\Kosmici5.pdb
+C:\Users\xopero\source\repos\Kosmici5\Kosmici5\obj\Debug\Kosmici5.csproj.AssemblyReference.cache
+C:\Users\xopero\source\repos\Kosmici5\Kosmici5\obj\Debug\MainWindow.g.cs
+C:\Users\xopero\source\repos\Kosmici5\Kosmici5\obj\Debug\Page1.g.cs
+C:\Users\xopero\source\repos\Kosmici5\Kosmici5\obj\Debug\App.g.cs
+C:\Users\xopero\source\repos\Kosmici5\Kosmici5\obj\Debug\Kosmici5_MarkupCompile.cache
+C:\Users\xopero\source\repos\Kosmici5\Kosmici5\obj\Debug\Kosmici5_MarkupCompile.lref
+C:\Users\xopero\source\repos\Kosmici5\Kosmici5\obj\Debug\MainWindow.baml
+C:\Users\xopero\source\repos\Kosmici5\Kosmici5\obj\Debug\Page1.baml
+C:\Users\xopero\source\repos\Kosmici5\Kosmici5\obj\Debug\Kosmici5.g.resources
+C:\Users\xopero\source\repos\Kosmici5\Kosmici5\obj\Debug\Kosmici5.Properties.Resources.resources
+C:\Users\xopero\source\repos\Kosmici5\Kosmici5\obj\Debug\Kosmici5.csproj.GenerateResource.cache
+C:\Users\xopero\source\repos\Kosmici5\Kosmici5\obj\Debug\Kosmici5.csproj.CoreCompileInputs.cache
+C:\Users\xopero\source\repos\Kosmici5\Kosmici5\obj\Debug\Kosmici5.exe
+C:\Users\xopero\source\repos\Kosmici5\Kosmici5\obj\Debug\Kosmici5.pdb

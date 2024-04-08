@@ -1,0 +1,10 @@
+C:\Users\xopero\source\repos\kalkulator_przyjec2\kalkulator_przyjec2\bin\Debug\kalkulator_przyjec2.exe.config
+C:\Users\xopero\source\repos\kalkulator_przyjec2\kalkulator_przyjec2\bin\Debug\kalkulator_przyjec2.exe
+C:\Users\xopero\source\repos\kalkulator_przyjec2\kalkulator_przyjec2\bin\Debug\kalkulator_przyjec2.pdb
+C:\Users\xopero\source\repos\kalkulator_przyjec2\kalkulator_przyjec2\obj\Debug\kalkulator_przyjec2.csproj.AssemblyReference.cache
+C:\Users\xopero\source\repos\kalkulator_przyjec2\kalkulator_przyjec2\obj\Debug\kalkulator_przyjec2.Form1.resources
+C:\Users\xopero\source\repos\kalkulator_przyjec2\kalkulator_przyjec2\obj\Debug\kalkulator_przyjec2.Properties.Resources.resources
+C:\Users\xopero\source\repos\kalkulator_przyjec2\kalkulator_przyjec2\obj\Debug\kalkulator_przyjec2.csproj.GenerateResource.cache
+C:\Users\xopero\source\repos\kalkulator_przyjec2\kalkulator_przyjec2\obj\Debug\kalkulator_przyjec2.csproj.CoreCompileInputs.cache
+C:\Users\xopero\source\repos\kalkulator_przyjec2\kalkulator_przyjec2\obj\Debug\kalkulator_przyjec2.exe
+C:\Users\xopero\source\repos\kalkulator_przyjec2\kalkulator_przyjec2\obj\Debug\kalkulator_przyjec2.pdb

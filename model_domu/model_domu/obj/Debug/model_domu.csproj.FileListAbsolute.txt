@@ -1,0 +1,10 @@
+C:\Users\xopero\source\repos\no_git_Sz\model_domu\model_domu\obj\Debug\model_domu.csproj.AssemblyReference.cache
+C:\Users\xopero\source\repos\no_git_Sz\model_domu\model_domu\obj\Debug\model_domu.Form1.resources
+C:\Users\xopero\source\repos\no_git_Sz\model_domu\model_domu\obj\Debug\model_domu.Properties.Resources.resources
+C:\Users\xopero\source\repos\no_git_Sz\model_domu\model_domu\obj\Debug\model_domu.csproj.GenerateResource.cache
+C:\Users\xopero\source\repos\no_git_Sz\model_domu\model_domu\obj\Debug\model_domu.csproj.CoreCompileInputs.cache
+C:\Users\xopero\source\repos\no_git_Sz\model_domu\model_domu\bin\Debug\model_domu.exe.config
+C:\Users\xopero\source\repos\no_git_Sz\model_domu\model_domu\bin\Debug\model_domu.exe
+C:\Users\xopero\source\repos\no_git_Sz\model_domu\model_domu\bin\Debug\model_domu.pdb
+C:\Users\xopero\source\repos\no_git_Sz\model_domu\model_domu\obj\Debug\model_domu.exe
+C:\Users\xopero\source\repos\no_git_Sz\model_domu\model_domu\obj\Debug\model_domu.pdb

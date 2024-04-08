@@ -1,0 +1,10 @@
+C:\Users\xopero\source\repos\Kalkulator_krow\Kalkulator_krow\bin\Debug\Kalkulator_krow.exe.config
+C:\Users\xopero\source\repos\Kalkulator_krow\Kalkulator_krow\bin\Debug\Kalkulator_krow.exe
+C:\Users\xopero\source\repos\Kalkulator_krow\Kalkulator_krow\bin\Debug\Kalkulator_krow.pdb
+C:\Users\xopero\source\repos\Kalkulator_krow\Kalkulator_krow\obj\Debug\Kalkulator_krow.csproj.AssemblyReference.cache
+C:\Users\xopero\source\repos\Kalkulator_krow\Kalkulator_krow\obj\Debug\Kalkulator_krow.Form1.resources
+C:\Users\xopero\source\repos\Kalkulator_krow\Kalkulator_krow\obj\Debug\Kalkulator_krow.Properties.Resources.resources
+C:\Users\xopero\source\repos\Kalkulator_krow\Kalkulator_krow\obj\Debug\Kalkulator_krow.csproj.GenerateResource.cache
+C:\Users\xopero\source\repos\Kalkulator_krow\Kalkulator_krow\obj\Debug\Kalkulator_krow.csproj.CoreCompileInputs.cache
+C:\Users\xopero\source\repos\Kalkulator_krow\Kalkulator_krow\obj\Debug\Kalkulator_krow.exe
+C:\Users\xopero\source\repos\Kalkulator_krow\Kalkulator_krow\obj\Debug\Kalkulator_krow.pdb

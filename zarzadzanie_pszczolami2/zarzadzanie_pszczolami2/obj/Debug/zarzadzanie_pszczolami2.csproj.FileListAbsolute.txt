@@ -1,0 +1,10 @@
+C:\Users\xopero\source\repos\zarzadzanie_pszczolami2\zarzadzanie_pszczolami2\bin\Debug\zarzadzanie_pszczolami2.exe.config
+C:\Users\xopero\source\repos\zarzadzanie_pszczolami2\zarzadzanie_pszczolami2\bin\Debug\zarzadzanie_pszczolami2.exe
+C:\Users\xopero\source\repos\zarzadzanie_pszczolami2\zarzadzanie_pszczolami2\bin\Debug\zarzadzanie_pszczolami2.pdb
+C:\Users\xopero\source\repos\zarzadzanie_pszczolami2\zarzadzanie_pszczolami2\obj\Debug\zarzadzanie_pszczolami2.csproj.AssemblyReference.cache
+C:\Users\xopero\source\repos\zarzadzanie_pszczolami2\zarzadzanie_pszczolami2\obj\Debug\zarzadzanie_pszczolami2.Form1.resources
+C:\Users\xopero\source\repos\zarzadzanie_pszczolami2\zarzadzanie_pszczolami2\obj\Debug\zarzadzanie_pszczolami2.Properties.Resources.resources
+C:\Users\xopero\source\repos\zarzadzanie_pszczolami2\zarzadzanie_pszczolami2\obj\Debug\zarzadzanie_pszczolami2.csproj.GenerateResource.cache
+C:\Users\xopero\source\repos\zarzadzanie_pszczolami2\zarzadzanie_pszczolami2\obj\Debug\zarzadzanie_pszczolami2.csproj.CoreCompileInputs.cache
+C:\Users\xopero\source\repos\zarzadzanie_pszczolami2\zarzadzanie_pszczolami2\obj\Debug\zarzadzanie_pszczolami2.exe
+C:\Users\xopero\source\repos\zarzadzanie_pszczolami2\zarzadzanie_pszczolami2\obj\Debug\zarzadzanie_pszczolami2.pdb

@@ -1,0 +1,15 @@
+C:\Users\xopero\source\repos\if_else instrukcja\if_else instrukcja\bin\Debug\if_else instrukcja.exe.config
+C:\Users\xopero\source\repos\if_else instrukcja\if_else instrukcja\bin\Debug\if_else instrukcja.exe
+C:\Users\xopero\source\repos\if_else instrukcja\if_else instrukcja\bin\Debug\if_else instrukcja.pdb
+C:\Users\xopero\source\repos\if_else instrukcja\if_else instrukcja\obj\Debug\if_else instrukcja.csproj.AssemblyReference.cache
+C:\Users\xopero\source\repos\if_else instrukcja\if_else instrukcja\obj\Debug\Page1.g.cs
+C:\Users\xopero\source\repos\if_else instrukcja\if_else instrukcja\obj\Debug\App.g.cs
+C:\Users\xopero\source\repos\if_else instrukcja\if_else instrukcja\obj\Debug\if_else instrukcja_MarkupCompile.cache
+C:\Users\xopero\source\repos\if_else instrukcja\if_else instrukcja\obj\Debug\if_else instrukcja_MarkupCompile.lref
+C:\Users\xopero\source\repos\if_else instrukcja\if_else instrukcja\obj\Debug\Page1.baml
+C:\Users\xopero\source\repos\if_else instrukcja\if_else instrukcja\obj\Debug\if_else instrukcja.g.resources
+C:\Users\xopero\source\repos\if_else instrukcja\if_else instrukcja\obj\Debug\if_else_instrukcja.Properties.Resources.resources
+C:\Users\xopero\source\repos\if_else instrukcja\if_else instrukcja\obj\Debug\if_else instrukcja.csproj.GenerateResource.cache
+C:\Users\xopero\source\repos\if_else instrukcja\if_else instrukcja\obj\Debug\if_else instrukcja.csproj.CoreCompileInputs.cache
+C:\Users\xopero\source\repos\if_else instrukcja\if_else instrukcja\obj\Debug\if_else instrukcja.exe
+C:\Users\xopero\source\repos\if_else instrukcja\if_else instrukcja\obj\Debug\if_else instrukcja.pdb

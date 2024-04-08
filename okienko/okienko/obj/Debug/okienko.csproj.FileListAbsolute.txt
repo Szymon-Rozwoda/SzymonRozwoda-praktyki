@@ -1,0 +1,9 @@
+C:\Users\xopero\source\repos\okienko\okienko\bin\Debug\okienko.exe.config
+C:\Users\xopero\source\repos\okienko\okienko\bin\Debug\okienko.exe
+C:\Users\xopero\source\repos\okienko\okienko\bin\Debug\okienko.pdb
+C:\Users\xopero\source\repos\okienko\okienko\obj\Debug\okienko.csproj.AssemblyReference.cache
+C:\Users\xopero\source\repos\okienko\okienko\obj\Debug\okienko.Properties.Resources.resources
+C:\Users\xopero\source\repos\okienko\okienko\obj\Debug\okienko.csproj.GenerateResource.cache
+C:\Users\xopero\source\repos\okienko\okienko\obj\Debug\okienko.csproj.CoreCompileInputs.cache
+C:\Users\xopero\source\repos\okienko\okienko\obj\Debug\okienko.exe
+C:\Users\xopero\source\repos\okienko\okienko\obj\Debug\okienko.pdb

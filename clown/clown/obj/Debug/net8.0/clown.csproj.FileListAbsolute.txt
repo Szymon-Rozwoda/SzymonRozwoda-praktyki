@@ -1,0 +1,15 @@
+C:\Users\xopero\source\repos\clown\clown\bin\Debug\net8.0\clown.exe
+C:\Users\xopero\source\repos\clown\clown\bin\Debug\net8.0\clown.deps.json
+C:\Users\xopero\source\repos\clown\clown\bin\Debug\net8.0\clown.runtimeconfig.json
+C:\Users\xopero\source\repos\clown\clown\bin\Debug\net8.0\clown.dll
+C:\Users\xopero\source\repos\clown\clown\bin\Debug\net8.0\clown.pdb
+C:\Users\xopero\source\repos\clown\clown\obj\Debug\net8.0\clown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xopero\source\repos\clown\clown\obj\Debug\net8.0\clown.AssemblyInfoInputs.cache
+C:\Users\xopero\source\repos\clown\clown\obj\Debug\net8.0\clown.AssemblyInfo.cs
+C:\Users\xopero\source\repos\clown\clown\obj\Debug\net8.0\clown.csproj.CoreCompileInputs.cache
+C:\Users\xopero\source\repos\clown\clown\obj\Debug\net8.0\clown.sourcelink.json
+C:\Users\xopero\source\repos\clown\clown\obj\Debug\net8.0\clown.dll
+C:\Users\xopero\source\repos\clown\clown\obj\Debug\net8.0\refint\clown.dll
+C:\Users\xopero\source\repos\clown\clown\obj\Debug\net8.0\clown.pdb
+C:\Users\xopero\source\repos\clown\clown\obj\Debug\net8.0\clown.genruntimeconfig.cache
+C:\Users\xopero\source\repos\clown\clown\obj\Debug\net8.0\ref\clown.dll

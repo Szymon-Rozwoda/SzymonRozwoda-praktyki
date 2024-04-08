@@ -1,0 +1,15 @@
+C:\Users\xopero\source\repos\zlodziej_klejnotow\zlodziej_klejnotow\bin\Debug\net8.0\zlodziej_klejnotow.exe
+C:\Users\xopero\source\repos\zlodziej_klejnotow\zlodziej_klejnotow\bin\Debug\net8.0\zlodziej_klejnotow.deps.json
+C:\Users\xopero\source\repos\zlodziej_klejnotow\zlodziej_klejnotow\bin\Debug\net8.0\zlodziej_klejnotow.runtimeconfig.json
+C:\Users\xopero\source\repos\zlodziej_klejnotow\zlodziej_klejnotow\bin\Debug\net8.0\zlodziej_klejnotow.dll
+C:\Users\xopero\source\repos\zlodziej_klejnotow\zlodziej_klejnotow\bin\Debug\net8.0\zlodziej_klejnotow.pdb
+C:\Users\xopero\source\repos\zlodziej_klejnotow\zlodziej_klejnotow\obj\Debug\net8.0\zlodziej_klejnotow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xopero\source\repos\zlodziej_klejnotow\zlodziej_klejnotow\obj\Debug\net8.0\zlodziej_klejnotow.AssemblyInfoInputs.cache
+C:\Users\xopero\source\repos\zlodziej_klejnotow\zlodziej_klejnotow\obj\Debug\net8.0\zlodziej_klejnotow.AssemblyInfo.cs
+C:\Users\xopero\source\repos\zlodziej_klejnotow\zlodziej_klejnotow\obj\Debug\net8.0\zlodziej_klejnotow.csproj.CoreCompileInputs.cache
+C:\Users\xopero\source\repos\zlodziej_klejnotow\zlodziej_klejnotow\obj\Debug\net8.0\zlodziej_klejnotow.sourcelink.json
+C:\Users\xopero\source\repos\zlodziej_klejnotow\zlodziej_klejnotow\obj\Debug\net8.0\zlodziej_klejnotow.dll
+C:\Users\xopero\source\repos\zlodziej_klejnotow\zlodziej_klejnotow\obj\Debug\net8.0\refint\zlodziej_klejnotow.dll
+C:\Users\xopero\source\repos\zlodziej_klejnotow\zlodziej_klejnotow\obj\Debug\net8.0\zlodziej_klejnotow.pdb
+C:\Users\xopero\source\repos\zlodziej_klejnotow\zlodziej_klejnotow\obj\Debug\net8.0\zlodziej_klejnotow.genruntimeconfig.cache
+C:\Users\xopero\source\repos\zlodziej_klejnotow\zlodziej_klejnotow\obj\Debug\net8.0\ref\zlodziej_klejnotow.dll

@@ -1,0 +1,15 @@
+C:\Users\xopero\source\repos\Kontrolki\Kontrolki\bin\Debug\Kontrolki.exe.config
+C:\Users\xopero\source\repos\Kontrolki\Kontrolki\bin\Debug\Kontrolki.exe
+C:\Users\xopero\source\repos\Kontrolki\Kontrolki\bin\Debug\Kontrolki.pdb
+C:\Users\xopero\source\repos\Kontrolki\Kontrolki\obj\Debug\Kontrolki.csproj.AssemblyReference.cache
+C:\Users\xopero\source\repos\Kontrolki\Kontrolki\obj\Debug\Page1.g.cs
+C:\Users\xopero\source\repos\Kontrolki\Kontrolki\obj\Debug\App.g.cs
+C:\Users\xopero\source\repos\Kontrolki\Kontrolki\obj\Debug\Kontrolki_MarkupCompile.cache
+C:\Users\xopero\source\repos\Kontrolki\Kontrolki\obj\Debug\Kontrolki_MarkupCompile.lref
+C:\Users\xopero\source\repos\Kontrolki\Kontrolki\obj\Debug\Page1.baml
+C:\Users\xopero\source\repos\Kontrolki\Kontrolki\obj\Debug\Kontrolki.g.resources
+C:\Users\xopero\source\repos\Kontrolki\Kontrolki\obj\Debug\Kontrolki.Properties.Resources.resources
+C:\Users\xopero\source\repos\Kontrolki\Kontrolki\obj\Debug\Kontrolki.csproj.GenerateResource.cache
+C:\Users\xopero\source\repos\Kontrolki\Kontrolki\obj\Debug\Kontrolki.csproj.CoreCompileInputs.cache
+C:\Users\xopero\source\repos\Kontrolki\Kontrolki\obj\Debug\Kontrolki.exe
+C:\Users\xopero\source\repos\Kontrolki\Kontrolki\obj\Debug\Kontrolki.pdb

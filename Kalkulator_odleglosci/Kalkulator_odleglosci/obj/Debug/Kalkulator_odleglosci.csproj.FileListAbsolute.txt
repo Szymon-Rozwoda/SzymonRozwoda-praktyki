@@ -1,0 +1,10 @@
+C:\Users\xopero\source\repos\Kalkulator_odleglosci\Kalkulator_odleglosci\bin\Debug\Kalkulator_odleglosci.exe.config
+C:\Users\xopero\source\repos\Kalkulator_odleglosci\Kalkulator_odleglosci\bin\Debug\Kalkulator_odleglosci.exe
+C:\Users\xopero\source\repos\Kalkulator_odleglosci\Kalkulator_odleglosci\bin\Debug\Kalkulator_odleglosci.pdb
+C:\Users\xopero\source\repos\Kalkulator_odleglosci\Kalkulator_odleglosci\obj\Debug\Kalkulator_odleglosci.csproj.AssemblyReference.cache
+C:\Users\xopero\source\repos\Kalkulator_odleglosci\Kalkulator_odleglosci\obj\Debug\Kalkulator_odleglosci.Form1.resources
+C:\Users\xopero\source\repos\Kalkulator_odleglosci\Kalkulator_odleglosci\obj\Debug\Kalkulator_odleglosci.Properties.Resources.resources
+C:\Users\xopero\source\repos\Kalkulator_odleglosci\Kalkulator_odleglosci\obj\Debug\Kalkulator_odleglosci.csproj.GenerateResource.cache
+C:\Users\xopero\source\repos\Kalkulator_odleglosci\Kalkulator_odleglosci\obj\Debug\Kalkulator_odleglosci.csproj.CoreCompileInputs.cache
+C:\Users\xopero\source\repos\Kalkulator_odleglosci\Kalkulator_odleglosci\obj\Debug\Kalkulator_odleglosci.exe
+C:\Users\xopero\source\repos\Kalkulator_odleglosci\Kalkulator_odleglosci\obj\Debug\Kalkulator_odleglosci.pdb

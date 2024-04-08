@@ -1,0 +1,10 @@
+C:\Users\xopero\source\repos\kalkulator_przyjec\kalkulator_przyjec\bin\Debug\kalkulator_przyjec.exe.config
+C:\Users\xopero\source\repos\kalkulator_przyjec\kalkulator_przyjec\bin\Debug\kalkulator_przyjec.exe
+C:\Users\xopero\source\repos\kalkulator_przyjec\kalkulator_przyjec\bin\Debug\kalkulator_przyjec.pdb
+C:\Users\xopero\source\repos\kalkulator_przyjec\kalkulator_przyjec\obj\Debug\kalkulator_przyjec.csproj.AssemblyReference.cache
+C:\Users\xopero\source\repos\kalkulator_przyjec\kalkulator_przyjec\obj\Debug\kalkulator_przyjec.Form1.resources
+C:\Users\xopero\source\repos\kalkulator_przyjec\kalkulator_przyjec\obj\Debug\kalkulator_przyjec.Properties.Resources.resources
+C:\Users\xopero\source\repos\kalkulator_przyjec\kalkulator_przyjec\obj\Debug\kalkulator_przyjec.csproj.GenerateResource.cache
+C:\Users\xopero\source\repos\kalkulator_przyjec\kalkulator_przyjec\obj\Debug\kalkulator_przyjec.csproj.CoreCompileInputs.cache
+C:\Users\xopero\source\repos\kalkulator_przyjec\kalkulator_przyjec\obj\Debug\kalkulator_przyjec.exe
+C:\Users\xopero\source\repos\kalkulator_przyjec\kalkulator_przyjec\obj\Debug\kalkulator_przyjec.pdb
