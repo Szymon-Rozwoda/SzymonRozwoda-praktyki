@@ -1,0 +1,10 @@
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\slownik_koszulki\slownik_koszulki\bin\Debug\slownik_koszulki.exe.config
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\slownik_koszulki\slownik_koszulki\bin\Debug\slownik_koszulki.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\slownik_koszulki\slownik_koszulki\bin\Debug\slownik_koszulki.pdb
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\slownik_koszulki\slownik_koszulki\obj\Debug\slownik_koszulki.csproj.AssemblyReference.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\slownik_koszulki\slownik_koszulki\obj\Debug\slownik_koszulki.Form1.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\slownik_koszulki\slownik_koszulki\obj\Debug\slownik_koszulki.Properties.Resources.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\slownik_koszulki\slownik_koszulki\obj\Debug\slownik_koszulki.csproj.GenerateResource.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\slownik_koszulki\slownik_koszulki\obj\Debug\slownik_koszulki.csproj.CoreCompileInputs.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\slownik_koszulki\slownik_koszulki\obj\Debug\slownik_koszulki.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\slownik_koszulki\slownik_koszulki\obj\Debug\slownik_koszulki.pdb
