@@ -1,0 +1,15 @@
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Lista_butow\Lista_butow\bin\Debug\net8.0\Lista_butow.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Lista_butow\Lista_butow\bin\Debug\net8.0\Lista_butow.deps.json
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Lista_butow\Lista_butow\bin\Debug\net8.0\Lista_butow.runtimeconfig.json
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Lista_butow\Lista_butow\bin\Debug\net8.0\Lista_butow.dll
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Lista_butow\Lista_butow\bin\Debug\net8.0\Lista_butow.pdb
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Lista_butow\Lista_butow\obj\Debug\net8.0\Lista_butow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Lista_butow\Lista_butow\obj\Debug\net8.0\Lista_butow.AssemblyInfoInputs.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Lista_butow\Lista_butow\obj\Debug\net8.0\Lista_butow.AssemblyInfo.cs
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Lista_butow\Lista_butow\obj\Debug\net8.0\Lista_butow.csproj.CoreCompileInputs.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Lista_butow\Lista_butow\obj\Debug\net8.0\Lista_butow.sourcelink.json
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Lista_butow\Lista_butow\obj\Debug\net8.0\Lista_butow.dll
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Lista_butow\Lista_butow\obj\Debug\net8.0\refint\Lista_butow.dll
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Lista_butow\Lista_butow\obj\Debug\net8.0\Lista_butow.pdb
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Lista_butow\Lista_butow\obj\Debug\net8.0\Lista_butow.genruntimeconfig.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Lista_butow\Lista_butow\obj\Debug\net8.0\ref\Lista_butow.dll

@@ -1,0 +1,10 @@
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Karty\Karty\bin\Debug\Karty.exe.config
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Karty\Karty\bin\Debug\Karty.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Karty\Karty\bin\Debug\Karty.pdb
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Karty\Karty\obj\Debug\Karty.csproj.AssemblyReference.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Karty\Karty\obj\Debug\Karty.Form1.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Karty\Karty\obj\Debug\Karty.Properties.Resources.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Karty\Karty\obj\Debug\Karty.csproj.GenerateResource.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Karty\Karty\obj\Debug\Karty.csproj.CoreCompileInputs.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Karty\Karty\obj\Debug\Karty.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Karty\Karty\obj\Debug\Karty.pdb

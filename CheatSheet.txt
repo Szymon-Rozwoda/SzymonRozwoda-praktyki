@@ -1,0 +1,123 @@
+1. VSS (Volume Snapshot Service) - shadow copy - program służący do tworzenia kopii zapasowych plików, nawet tych w użyciu
+2. Deduplikacja - usuwanie duplikatów
+3.Kompresja - zmniejszenie objętości zbioru poprzez zmianę sposobu zapisu informacji
+	a) Rodzaje: stratna i bezstratna
+	b)Stopnie: stosunek przed kompresją do po kompresji (największy stopień to 	kompresja stratna)
+4.Szyfrowanie - zakodowanie danych, dostępne są tylko przez klucz. Dwa typy: symetryczne i asymetryczne
+	a)Symetryczne - szyfrowanie i deszyfrowanie wykonywane jest przy użyciu jednego i 	tego samego klucza
+		i)Algorytm AES (Advanced Encryption Standard) (Rijndael) - szyfr blokowy 			służący do szyfrowania bloków o rozmiare 128 bitów, ale długości klucza są 			różne.
+		ii)
+		ECB (Electronic Code Book) - tryb szyfrowania, w którym takie same bloki 			danych są szyfrowane w ten sam sposób, co powoduje powstanie 				identycznych bloków zaszyfrowanych danych
+		CBC (Cipher Block Chaining) - tryb szyfrowania, w którym w przciwieństwie 			do poprednika, te same bloki danych są kodowane przy użyciu poprzedniego 			bloku co daje unikatowy rezultat
+	b)Asymetryczne - wolniejsze rowiązanie, klucz publiczny szyfruje i jest dostęny dla 	każdego, a klucz prywatny do odszyfrowania i tylko właściciel ma dostęp
+5.Retencja plików - określa ile chcemy przechowywać kopie zapasowe
+6. Backup - kopia danych przechowywana na innym nośniku w celu zabezpieczenia danych
+	a)całościowy/pełny - po prostu całkowita kopia danych
+	b)przyrostowy - najpierw pełna kopia zapasowa, a potem tylko różnica między kopią 	a orygiałem
+https://totalbackup.me/total-backup/rodzaje-backupow/#:~:text=Backup%20r%C3%B3%C5%BCnicowy%20to%20co%C5%9B%20po%C5%9Bredniego,si%C4%99%20od%20tego%20pe%C5%82nego%20backupu.
+7. Kopie zapasowe z danymi użytkownika mogą być przechowywane do czasu, kiedy trwa podstawa prawna do ich przetwarzania
+8.Zmienne środowiskowe - zmiene przechowujące dane dotyczące środowiska. Nazywane też właściwości lub metadane
+https://pl.wikipedia.org/wiki/Zmienna_%C5%9Brodowiskowa
+9. Harmonogram - porządkuje zadania
+10.Pliki ukryte - pliki niewidoczne przy normalnym wyświetleniu listy. Zaczynają się od "."(kropka)
+11. Filtry plików - umożliwiaja określeie, jakie pliki będą pominięte w procesie tworzenia kopii zapasowej
+12. Usługa systemowa - 
+	a)uprawnienia NTFS - stosowane dla każdego pliku i folderu 
+	b)uprawnienia udziału - stosowane tylko do folderów udostępnionych
+https://www.dell.com/support/kbdoc/pl-pl/000137238/informacje-o-uprawnieniach-plik%C3%B3w-i-folder%C3%B3w-w-systemie-windows
+13. Active Directory (AD) - stworzone przez Microsoft. Daje możliwość zarządzania dostępem do zasobów w sieci. Zarządza prawami dostępu, dzięki czemu praca w zespole jest płynniejsza
+https://www.techtarget.com/searchwindowsserver/definition/Active-Directory#:~:text=Active%20Directory%20(AD)%20is%20Microsoft's,device%20such%20as%20a%20printer.
+14.Wirtualizacja  - symulowanie systemu operacyjnego w maszynie wirtualnej, co daje bezpieczne i wydajne środowisko testów
+	a)typ pierwszy - Hypervisor bez pośrednictwa hosta przydziela zasoby (Hyper-	V,Citrix 	XenServer,  VMware vSphere, Oracle VM Server)
+	b)typ drugi - Hypervisor poprzez hosta przydziela zasoby (VirtualBox, VM Player, 	Virtual PC)
+https://pasja-informatyki.pl/sieci-komputerowe/typy-wirtualizacji/
+15.Redundancja - to w skrócie nadmiarowość
+16.Chmura - globalna sieć serwerów na których przetwarzane są dane
+
+
+1.NAS (Network-attached storage) - serwer podłączony do sieci udostępniający dane wybranej grupie osób
+https://en.wikipedia.org/wiki/Network-attached_storage
+2.QNAP, Synology, Asustor, Netgear - firmy oferujące NAS
+3.Mono - platforma pozwalająca developerom łatwe tworzenie aplikacji cross-platformowych (.NET Framework)
+https://www.mono-project.com/
+4.Systemy wersjonowania (Systemy kontroli wersji) - oprogramowanie służące do kontrolowania zmian w kodzie źródłowym 
+5.Docker to platforma do tworzenia kontenerów aplikacji. Ma lekki i standaryzowany format. Kubernetes zarządza kontenerami.
+6.Strony wspierające wersjonowanie w chmurze (GitHub, Bitbucket itp...) - aktualizacje kodu odbywają się całkowicie w chmurze i jest to zsynchronizowane na wszystkich urządzeniach
+7.Klastry - grupa połączonych jednostek komputerowych, które współpracują ze sobą
+8.Centra Danych - pomieszczenie przeznaczone do przechowywania serwerów
+9.RAID (Redundand Array of Independent Disks) :
+	a)RAID 0 - potrzebne są 2 dyski twarde. Dane zapisuje się naprzmiennie na 	poszczególnych dyskach
+	b)RAID 1 - potrzebne są 2  dyski twarde. Drugi dysk jest kopią pierwszego
+	c)RAID 2 - potrzebne są 3  dyski twarde. RAID 1 + trzeci dysk do korekcji błedów
+	d)RAID 3 - RAID 2(ale zapis na poziomie pojedynczych bajtów, a 3 dysk sprzwdza 	parzystość) 
+	e)RAID 4 - potrzebne są 3 dyski. Dane zapisywane jednocześnie na 2 dyskach. Trzeci 	dysk odpowiada za parzystość
+	f)RAID 5 - potrzebne 3 dyski. Podobne do RAID4, ale informacja o przystości nie jest 	zapisana na jednym dysku, tylko jest rozproszona po wszystkich 3.
+	g)RAID 6 - potrzeba 4 dyski. Podobnie do RAID5, ale informacje o parzystości są 	zapisywane podwójnie
+	h)RAID 0+1 - kombinacja dwóch RAID0, połączone w RAID1
+	i)RAID 1+0 - kombinacja dwóch RAID1, połączonych w RAID0
+https://www.kylos.pl/blog/co-to-jest-raid-roznice-miedzy-raidem-sprzetowym-i-programowym/
+10.Systemy plików - metoda przechowywania plików, zarządzania plikami, informacjami o tych plikach, tak by dostęp do plików i danych w nich zgromadzonych był łatwy dla użytkownika systemu 
+	a)FAT(File Allocation Table) - Określa on rozmieszczenie plików, katalogów i wolnej 	przestrzeni na nośnikach danych
+	b)NTFS(New Technology File System) - system plików systemu Windows
+	c)ext(Extended File System) - pierwsza wersja najbardziej popularnego linuksowego 	systemu plików
+https://pl.wikipedia.org/wiki/System_plik%C3%B3w
+11.Rejestr systemowy Windows - baza danych, którą system operacyjny Windows używa do przechowywania informacji o konfiguracji komputera.
+https://support.kaspersky.com/pl/common/windows/1327
+12.Foldery systemowe - foldery zawierające pliki potrzebne do prawidłowego działania systemu.
+13.
+	a)Amazon Web Service:
+		i)S3(Amazon Simple Storage Service) - usługa amazon oferująca 				przechowywanie danych
+		ii)EC2(Amazon Elastic Compute Cloud) - usługa amazon oferująca moc 				obliczeniową
+	b)Aure - Windowsowa platforma udostepniająca moc obliczeniową w chmurze
+
+14.OpenStack - platforma do obliczeń w chmurze
+https://en.wikipedia.org/wiki/OpenStack
+
+
+1.Linki symboliczne - specjalne pliki wskazujące na inne pliki lub katalogi
+2.Specjalne pliki systemowe:
+	a)pagefile.sys - wsparcie dla RAM, Windows rezerwuje dla niego pojemność równą 	RAM. Część pamięci wirtualnej.
+	b)hiberfil.sys - odpowiedzialny za hibernację
+	c)swapfile.sys - działa razem z pagefile by zwolnić jak najwięcej RAMu
+3. Rejestr zdarzeń Windows i logowanie zdarzeń w kontekście programowania - aplikacja na windows
+https://sites.google.com/site/twierdzaciemnosci/windows/dziennik-zdarze%C5%84-systemu-windows-podgl%C4%85d-zapisywanie-udost%C4%99pnianie
+4.Grupy robocze Windows - zbiór komputerów pracujących w obrębie lokalnej sieci, wsółdzielących zasoby(drukarki, skanery itp...)
+5.Protokoły IP - metoda przesyłu informacji przez internet:
+	a)IPv4: 32-bitowy adres, oddzielenie: . , numeryczny
+	https://pl.wikipedia.org/wiki/IPv4
+	b)IPv6: 128-bitowy adres, oddzielenie: : , alfanumeryczny
+	https://pl.wikipedia.org/wiki/IPv6
+6. MSI, EXE:
+	a)MSI(Microsoft Software Installer) - instalator używany do instalowania programów 	na Windows. Wspiera zautomatyzowane instalacje. Standaryzowane
+	b)EXE - instalator nie polegający na niczym z zewnątrz. Nie zawsze wspiera 	zautomatyzowane instalacje. Duża customizacja
+https://www.advancedinstaller.com/exe-vs-msi-installer.html#:~:text=The%20EXE%20file%20can%20install,repackage%20them%20using%20the%20Repackager.
+7.Skrypty .BAT, skrypty .sh:
+	a).BAT( batch file) - plik wykonywany bez wpływu użytkownika
+	b).sh - język skryptowy powłoki
+8.Ograniczenia systemów w kontekście ograniczeń dotyczących ścieżek do plików - maks długość (w bajtach) 16 773 116
+9.Typy plików a rozszerzenia:
+Pliki tekstowe: txt
+Dokumenty: doc, odt
+Archiwa: zip, rar, tar.gz
+Formaty graficzne: jpg, png, gif, tiff, ...
+Formaty dźwiękowe: mp3, ogg, flac, m4a/mp4
+Formaty wideo: mpeg, avi, mkv
+Pliki wykonywalne: exe, sh
+https://www.cs.put.poznan.pl/ksiek/pi/pliki.html
+10.DLL a EXE:
+	a)DLL(dynamic-link library) - nie moga być wykonane bezpośrednio
+	b)EXE - zawierają cały potrzebny kod by wykonać program
+https://www.fortect.com/dll/difference-between-exe-and-dll-files/
+11.Procesy a wątki - różnica polega na tym, że procesy posiadają niezależne zasoby, a wątki je dzielą
+12.Wielowątkowość - cecha systmu, która umożliwia jednemu procesowi wykonywanie kilku zadań(wątków)
+13.Grafika wektorowa a rastrowa:
+	a)wektorowa - bezstratna. Zbudowana z równań matematycznych
+	b)rastrowa - stratna. Zbudowana z pikseli
+14.Bitlocker - funkcja Windowsa pozwalająca na zakodowanie danych
+15.HDD a SSD:
+	a)HDD(Hard Disc Drive) - wolniejszy, narażony na uszkodzenia mechaniczne
+	b)SSD(Solid-State Drive) - niezależny od temperatury, energooszczędne
+16.UEFI(Unified Extensible Firmware Interface) a BIOS(basic input/output system) - BIOS daje możliwość nawigowania tylko klawiaturą, a UEFI klawiaturą i myszką.UEFI ma "Secure Boot"
+https://www.freecodecamp.org/news/uefi-vs-bios/
+
+

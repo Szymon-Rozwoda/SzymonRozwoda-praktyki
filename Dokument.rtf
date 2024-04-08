@@ -1,0 +1,129 @@
+{\rtf1\ansi\ansicpg1250\deff0\nouicompat\deflang1045{\fonttbl{\f0\fnil\fcharset238 Calibri;}{\f1\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue255;}
+{\*\generator Riched20 10.0.19041}\viewkind4\uc1 
+\pard\sa200\sl276\slmult1\f0\fs22 1. VSS (Volume Snapshot Service) - shadow copy - program s\'b3u\'bf\'b9cy do tworzenia kopii zapasowych plik\f1\lang1033\'f3\f0\lang1045 w, nawet tych w u\'bfyciu\par
+2. Deduplikacja - usuwanie duplikat\f1\lang1033\'f3\f0\lang1045 w\par
+3.Kompresja - zmniejszenie obj\'eato\'9cci zbioru poprzez zmian\'ea sposobu zapisu informacji\par
+\tab a) Rodzaje: stratna i bezstratna\par
+\tab b)Stopnie: stosunek przed kompresj\'b9 do po kompresji (najwi\'eakszy stopie\'f1 to \tab kompresja stratna)\par
+4.Szyfrowanie - zakodowanie danych, dost\'eapne s\'b9 tylko przez klucz. Dwa typy: symetryczne i asymetryczne\par
+\tab a)Symetryczne - szyfrowanie i deszyfrowanie wykonywane jest przy u\'bfyciu jednego i \tab tego samego klucza\par
+\tab\tab i)Algorytm AES (Advanced Encryption Standard) (Rijndael) - szyfr blokowy \tab\tab\tab s\'b3u\'bf\'b9cy do szyfrowania blok\f1\lang1033\'f3\f0\lang1045 w o rozmiare 128 bit\f1\lang1033\'f3\f0\lang1045 w, ale d\'b3ugo\'9cci klucza s\'b9 \tab\tab\tab r\f1\lang1033\'f3\f0\lang1045\'bfne.\par
+\tab\tab ii)\par
+\tab\tab ECB (Electronic Code Book) - tryb szyfrowania, w kt\f1\lang1033\'f3\f0\lang1045 rym takie same bloki \tab\tab\tab danych s\'b9 szyfrowane w ten sam spos\f1\lang1033\'f3\f0\lang1045 b, co powoduje powstanie \tab\tab\tab\tab identycznych blok\f1\lang1033\'f3\f0\lang1045 w zaszyfrowanych danych\par
+\tab\tab CBC (Cipher Block Chaining) - tryb szyfrowania, w kt\f1\lang1033\'f3\f0\lang1045 rym w przciwie\'f1stwie \tab\tab\tab do poprednika, te same bloki danych s\'b9 kodowane przy u\'bfyciu poprzedniego \tab\tab\tab bloku co daje unikatowy rezultat\par
+\tab b)Asymetryczne - wolniejsze rowi\'b9zanie, klucz publiczny szyfruje i jest dost\'eany dla \tab ka\'bfdego, a klucz prywatny do odszyfrowania i tylko w\'b3a\'9cciciel ma dost\'eap\par
+5.Retencja plik\f1\lang1033\'f3\f0\lang1045 w - okre\'9cla ile chcemy przechowywa\'e6 kopie zapasowe\par
+6. Backup - kopia danych przechowywana na innym no\'9cniku w celu zabezpieczenia danych\par
+\tab a)ca\'b3o\'9cciowy/pe\'b3ny - po prostu ca\'b3kowita kopia danych\par
+\tab b)przyrostowy - najpierw pe\'b3na kopia zapasowa, a potem tylko r\f1\lang1033\'f3\f0\lang1045\'bfnica mi\'eadzy kopi\'b9 \tab a orygia\'b3em\par
+{{\field{\*\fldinst{HYPERLINK https://totalbackup.me/total-backup/rodzaje-backupow/#:~:text=Backup%20r%C3%B3%C5%BCnicowy%20to%20co%C5%9B%20po%C5%9Bredniego,si%C4%99%20od%20tego%20pe%C5%82nego%20backupu }}{\fldrslt{https://totalbackup.me/total-backup/rodzaje-backupow/#:~:text=Backup%20r%C3%B3%C5%BCnicowy%20to%20co%C5%9B%20po%C5%9Bredniego,si%C4%99%20od%20tego%20pe%C5%82nego%20backupu\ul0\cf0}}}}\f0\fs22 .\par
+7. Kopie zapasowe z danymi u\'bfytkownika mog\'b9 by\'e6 przechowywane do czasu, kiedy trwa podstawa prawna do ich przetwarzania\par
+8.Zmienne \'9crodowiskowe - zmiene przechowuj\'b9ce dane dotycz\'b9ce \'9crodowiska. Nazywane te\'bf w\'b3a\'9cciwo\'9cci lub metadane\par
+{{\field{\*\fldinst{HYPERLINK https://pl.wikipedia.org/wiki/Zmienna_%C5%9Brodowiskowa }}{\fldrslt{https://pl.wikipedia.org/wiki/Zmienna_%C5%9Brodowiskowa\ul0\cf0}}}}\f0\fs22\par
+9. Harmonogram - porz\'b9dkuje zadania\par
+10.Pliki ukryte - pliki niewidoczne przy normalnym wy\'9cwietleniu listy. Zaczynaj\'b9 si\'ea od "."(kropka)\par
+11. Filtry plik\f1\lang1033\'f3\f0\lang1045 w - umo\'bfliwiaja okre\'9cleie, jakie pliki b\'ead\'b9 pomini\'eate w procesie tworzenia kopii zapasowej\par
+12. Us\'b3uga systemowa - \par
+\tab a)uprawnienia NTFS - stosowane dla ka\'bfdego pliku i folderu \par
+\tab b)uprawnienia udzia\'b3u - stosowane tylko do folder\f1\lang1033\'f3\f0\lang1045 w udost\'eapnionych\par
+{{\field{\*\fldinst{HYPERLINK https://www.dell.com/support/kbdoc/pl-pl/000137238/informacje-o-uprawnieniach-plik%C3%B3w-i-folder%C3%B3w-w-systemie-windows }}{\fldrslt{https://www.dell.com/support/kbdoc/pl-pl/000137238/informacje-o-uprawnieniach-plik%C3%B3w-i-folder%C3%B3w-w-systemie-windows\ul0\cf0}}}}\f0\fs22\par
+13. Active Directory (AD) - stworzone przez Microsoft. Daje mo\'bfliwo\'9c\'e6 zarz\'b9dzania dost\'eapem do zasob\f1\lang1033\'f3\f0\lang1045 w w sieci. Zarz\'b9dza prawami dost\'eapu, dzi\'eaki czemu praca w zespole jest p\'b3ynniejsza\par
+{{\field{\*\fldinst{HYPERLINK https://www.techtarget.com/searchwindowsserver/definition/Active-Directory#:~:text=Active%20Directory%20(AD)%20is%20Microsoft's,device%20such%20as%20a%20printer }}{\fldrslt{https://www.techtarget.com/searchwindowsserver/definition/Active-Directory#:~:text=Active%20Directory%20(AD)%20is%20Microsoft's,device%20such%20as%20a%20printer\ul0\cf0}}}}\f0\fs22 .\par
+14.Wirtualizacja  - symulowanie systemu operacyjnego w maszynie wirtualnej, co daje bezpieczne i wydajne \'9crodowisko test\f1\lang1033\'f3\f0\lang1045 w\par
+\tab a)typ pierwszy - Hypervisor bez po\'9crednictwa hosta przydziela zasoby (Hyper-\tab V,Citrix \tab XenServer,  VMware vSphere, Oracle VM Server)\par
+\tab b)typ drugi - Hypervisor poprzez hosta przydziela zasoby (VirtualBox, VM Player, \tab Virtual PC)\par
+{{\field{\*\fldinst{HYPERLINK https://pasja-informatyki.pl/sieci-komputerowe/typy-wirtualizacji/ }}{\fldrslt{https://pasja-informatyki.pl/sieci-komputerowe/typy-wirtualizacji/\ul0\cf0}}}}\f0\fs22\par
+15.Redundancja - to w skr\f1\lang1033\'f3\f0\lang1045 cie nadmiarowo\'9c\'e6\par
+16.Chmura - globalna sie\'e6 serwer\f1\lang1033\'f3\f0\lang1045 w na kt\f1\lang1033\'f3\f0\lang1045 rych przetwarzane s\'b9 dane\par
+\par
+\par
+1.NAS (Network-attached storage) - serwer pod\'b3\'b9czony do sieci udost\'eapniaj\'b9cy dane wybranej grupie os\f1\lang1033\'f3\f0\lang1045 b\par
+{{\field{\*\fldinst{HYPERLINK https://en.wikipedia.org/wiki/Network-attached_storage }}{\fldrslt{https://en.wikipedia.org/wiki/Network-attached_storage\ul0\cf0}}}}\f0\fs22\par
+2.QNAP, Synology, Asustor, Netgear - firmy oferuj\'b9ce NAS\par
+3.Mono - platforma pozwalaj\'b9ca developerom \'b3atwe tworzenie aplikacji cross-platformowych (.NET Framework)\par
+{{\field{\*\fldinst{HYPERLINK https://www.mono-project.com/ }}{\fldrslt{https://www.mono-project.com/\ul0\cf0}}}}\f0\fs22\par
+4.Systemy wersjonowania (Systemy kontroli wersji) - oprogramowanie s\'b3u\'bf\'b9ce do kontrolowania zmian w kodzie \'9fr\f1\lang1033\'f3\f0\lang1045 d\'b3owym \par
+5.Docker to platforma do tworzenia kontener\f1\lang1033\'f3\f0\lang1045 w aplikacji. Ma lekki i standaryzowany format. Kubernetes zarz\'b9dza kontenerami.\par
+6.Strony wspieraj\'b9ce wersjonowanie w chmurze (GitHub, Bitbucket itp...) - aktualizacje kodu odbywaj\'b9 si\'ea ca\'b3kowicie w chmurze i jest to zsynchronizowane na wszystkich urz\'b9dzeniach\par
+7.Klastry - grupa po\'b3\'b9czonych jednostek komputerowych, kt\f1\lang1033\'f3\f0\lang1045 re wsp\f1\lang1033\'f3\f0\lang1045\'b3pracuj\'b9 ze sob\'b9\par
+8.Centra Danych - pomieszczenie przeznaczone do przechowywania serwer\f1\lang1033\'f3\f0\lang1045 w\par
+9.RAID (Redundand Array of Independent Disks) :\par
+\tab a)RAID 0 - potrzebne s\'b9 2 dyski twarde. Dane zapisuje si\'ea naprzmiennie na \tab poszczeg\f1\lang1033\'f3\f0\lang1045 lnych dyskach\par
+\tab b)RAID 1 - potrzebne s\'b9 2  dyski twarde. Drugi dysk jest kopi\'b9 pierwszego\par
+\tab c)RAID 2 - potrzebne s\'b9 3  dyski twarde. RAID 1 + trzeci dysk do korekcji b\'b3ed\f1\lang1033\'f3\f0\lang1045 w\par
+\tab d)RAID 3 - RAID 2(ale zapis na poziomie pojedynczych bajt\f1\lang1033\'f3\f0\lang1045 w, a 3 dysk sprzwdza \tab parzysto\'9c\'e6) \par
+\tab e)RAID 4 - potrzebne s\'b9 3 dyski. Dane zapisywane jednocze\'9cnie na 2 dyskach. Trzeci \tab dysk odpowiada za parzysto\'9c\'e6\par
+\tab f)RAID 5 - potrzebne 3 dyski. Podobne do RAID4, ale informacja o przysto\'9cci nie jest \tab zapisana na jednym dysku, tylko jest rozproszona po wszystkich 3.\par
+\tab g)RAID 6 - potrzeba 4 dyski. Podobnie do RAID5, ale informacje o parzysto\'9cci s\'b9 \tab zapisywane podw\f1\lang1033\'f3\f0\lang1045 jnie\par
+\tab h)RAID 0+1 - kombinacja dw\f1\lang1033\'f3\f0\lang1045 ch RAID0, po\'b3\'b9czone w RAID1\par
+\tab i)RAID 1+0 - kombinacja dw\f1\lang1033\'f3\f0\lang1045 ch RAID1, po\'b3\'b9czonych w RAID0\par
+{{\field{\*\fldinst{HYPERLINK https://www.kylos.pl/blog/co-to-jest-raid-roznice-miedzy-raidem-sprzetowym-i-programowym/ }}{\fldrslt{https://www.kylos.pl/blog/co-to-jest-raid-roznice-miedzy-raidem-sprzetowym-i-programowym/\ul0\cf0}}}}\f0\fs22\par
+10.Systemy plik\f1\lang1033\'f3\f0\lang1045 w - metoda przechowywania plik\f1\lang1033\'f3w, zarz\f0\'b9dzania plikami, informacjami o tych plikach, tak by dost\'eap do plik\f1\'f3w i danych w nich zgromadzonych by\f0\'b3 \'b3atwy dla u\'bfytkownika systemu \lang1045\par
+\tab a)FAT(File Allocation Table) - Okre\'9cla on rozmieszczenie plik\f1\lang1033\'f3w, katalog\'f3w i wolnej \f0\lang1045\tab\f1\lang1033 przestrzeni na no\f0\'9cnikach danych\lang1045\par
+\tab b)NTFS(New Technology File System) - system plik\f1\lang1033\'f3w systemu Windows\f0\lang1045\par
+\tab c)ext(Extended File System) - pierwsza wersja najbardziej popularnego linuksowego \tab systemu plik\f1\lang1033\'f3w\par
+{{\field{\*\fldinst{HYPERLINK https://pl.wikipedia.org/wiki/System_plik%C3%B3w }}{\fldrslt{https://pl.wikipedia.org/wiki/System_plik%C3%B3w\ul0\cf0}}}}\f1\fs22\par
+\f0\lang1045 11.Rejestr systemowy Windows - baza danych, kt\f1\lang1033\'f3r\f0\'b9 system operacyjny Windows u\'bfywa do przechowywania informacji o konfiguracji komputera.\par
+{{\field{\*\fldinst{HYPERLINK https://support.kaspersky.com/pl/common/windows/1327 }}{\fldrslt{https://support.kaspersky.com/pl/common/windows/1327\ul0\cf0}}}}\f0\fs22\par
+12.Foldery systemowe - foldery zawieraj\'b9ce pliki potrzebne do prawid\'b3owego dzia\'b3ania systemu.\par
+13.\par
+\tab a)Amazon Web Service:\par
+\tab\tab i)S3(Amazon Simple Storage Service) - us\'b3uga amazon oferuj\'b9ca \tab\tab\tab\tab przechowywanie danych\par
+\tab\tab ii)EC2(Amazon Elastic Compute Cloud) - us\'b3uga amazon oferuj\'b9ca moc \tab\tab\tab\tab obliczeniow\'b9\par
+\tab b)Aure - Windowsowa platforma udostepniaj\'b9ca moc obliczeniow\'b9 w chmurze\par
+\par
+14.OpenStack - platforma do oblicze\'f1 w chmurze\par
+{{\field{\*\fldinst{HYPERLINK https://en.wikipedia.org/wiki/OpenStack }}{\fldrslt{https://en.wikipedia.org/wiki/OpenStack\ul0\cf0}}}}\f0\fs22\par
+\lang1045\par
+\par
+1.Linki symboliczne - specjalne pliki wskazuj\'b9ce na inne pliki lub katalogi\par
+2.Specjalne pliki systemowe:\par
+\tab a)pagefile.sys - wsparcie dla RAM, Windows rezerwuje dla niego pojemno\'9c\'e6 r\f1\lang1033\'f3\f0\lang1045 wn\'b9 \tab RAM. Cz\'ea\'9c\'e6 pami\'eaci wirtualnej.\par
+\tab b)hiberfil.sys - odpowiedzialny za hibernacj\'ea\par
+\tab c)swapfile.sys - dzia\'b3a razem z pagefile by zwolni\'e6 jak najwi\'eacej RAMu\par
+3. Rejestr zdarze\'f1 Windows i logowanie zdarze\'f1 w kontek\'9ccie programowania - aplikacja na windows\par
+{{\field{\*\fldinst{HYPERLINK https://sites.google.com/site/twierdzaciemnosci/windows/dziennik-zdarze%C5%84-systemu-windows-podgl%C4%85d-zapisywanie-udost%C4%99pnianie }}{\fldrslt{https://sites.google.com/site/twierdzaciemnosci/windows/dziennik-zdarze%C5%84-systemu-windows-podgl%C4%85d-zapisywanie-udost%C4%99pnianie\ul0\cf0}}}}\f0\fs22\par
+4.Grupy robocze Windows - zbi\f1\lang1033\'f3\f0\lang1045 r komputer\f1\lang1033\'f3\f0\lang1045 w pracuj\'b9cych w obr\'eabie lokalnej sieci, ws\f1\lang1033\'f3\f0\lang1045\'b3dziel\'b9cych zasoby(drukarki, skanery itp...)\par
+5.Protoko\'b3y IP - metoda przesy\'b3u informacji przez internet:\par
+\tab a)IPv4: 32-bitowy adres, oddzielenie: . , numeryczny\par
+\tab {{\field{\*\fldinst{HYPERLINK https://pl.wikipedia.org/wiki/IPv4 }}{\fldrslt{https://pl.wikipedia.org/wiki/IPv4\ul0\cf0}}}}\f0\fs22\par
+\tab b)IPv6: 128-bitowy adres, oddzielenie: : , alfanumeryczny\par
+\tab {{\field{\*\fldinst{HYPERLINK https://pl.wikipedia.org/wiki/IPv6 }}{\fldrslt{https://pl.wikipedia.org/wiki/IPv6\ul0\cf0}}}}\f0\fs22\par
+6. MSI, EXE:\par
+\tab a)MSI(Microsoft Software Installer) - instalator u\'bfywany do instalowania program\f1\lang1033\'f3\f0\lang1045 w \tab na Windows. Wspiera zautomatyzowane instalacje. Standaryzowane\par
+\tab b)EXE - instalator nie polegaj\'b9cy na niczym z zewn\'b9trz. Nie zawsze wspiera \tab zautomatyzowane instalacje. Du\'bfa customizacja\par
+{{\field{\*\fldinst{HYPERLINK https://www.advancedinstaller.com/exe-vs-msi-installer.html#:~:text=The%20EXE%20file%20can%20install,repackage%20them%20using%20the%20Repackager }}{\fldrslt{https://www.advancedinstaller.com/exe-vs-msi-installer.html#:~:text=The%20EXE%20file%20can%20install,repackage%20them%20using%20the%20Repackager\ul0\cf0}}}}\f0\fs22 .\par
+7.Skrypty .BAT, skrypty .sh:\par
+\tab a).BAT( batch file) - plik wykonywany bez wp\'b3ywu u\'bfytkownika\par
+\tab b).sh - j\'eazyk skryptowy pow\'b3oki\par
+8.Ograniczenia system\f1\lang1033\'f3w w kontek\f0\'9ccie ogranicze\'f1 dotycz\'b9cych \'9ccie\'bfek do plik\f1\'f3w\f0\lang1045  - maks d\'b3ugo\'9c\'e6 (w bajtach) 16 773 116\par
+9.Typy plik\f1\lang1033\'f3w a rozszerzenia\f0\lang1045 :\par
+Pliki tekstowe: txt\par
+Dokumenty: doc, odt\par
+Archiwa: zip, rar, tar.gz\par
+Formaty graficzne: jpg, png, gif, tiff, ...\par
+Formaty d\'9fwi\'eakowe: mp3, ogg, flac, m4a/mp4\par
+Formaty wideo: mpeg, avi, mkv\par
+Pliki wykonywalne: exe, sh\par
+{{\field{\*\fldinst{HYPERLINK https://www.cs.put.poznan.pl/ksiek/pi/pliki.html }}{\fldrslt{https://www.cs.put.poznan.pl/ksiek/pi/pliki.html\ul0\cf0}}}}\f0\fs22\par
+10.DLL a EXE:\par
+\tab a)DLL(dynamic-link library) - nie moga by\'e6 wykonane bezpo\'9crednio\par
+\tab b)EXE - zawieraj\'b9 ca\'b3y potrzebny kod by wykona\'e6 program\par
+{{\field{\*\fldinst{HYPERLINK https://www.fortect.com/dll/difference-between-exe-and-dll-files/ }}{\fldrslt{https://www.fortect.com/dll/difference-between-exe-and-dll-files/\ul0\cf0}}}}\f0\fs22\par
+11.Procesy a w\'b9tki - r\f1\lang1033\'f3\f0\lang1045\'bfnica polega na tym, \'bfe procesy posiadaj\'b9 niezale\'bfne zasoby, a w\'b9tki je dziel\'b9\par
+12.Wielow\'b9tkowo\'9c\'e6 - cecha systmu, kt\f1\lang1033\'f3\f0\lang1045 ra umo\'bfliwia jednemu procesowi wykonywanie kilku zada\'f1(w\'b9tk\f1\lang1033\'f3\f0\lang1045 w)\par
+13.Grafika wektorowa a rastrowa:\par
+\tab a)wektorowa - bezstratna. Zbudowana z r\f1\lang1033\'f3\f0\lang1045 wna\'f1 matematycznych\par
+\tab b)rastrowa - stratna. Zbudowana z pikseli\par
+14.Bitlocker - funkcja Windowsa pozwalaj\'b9ca na zakodowanie danych\par
+15.HDD a SSD:\par
+\tab a)HDD(Hard Disc Drive) - wolniejszy, nara\'bfony na uszkodzenia mechaniczne\par
+\tab b)SSD(Solid-State Drive) - niezale\'bfny od temperatury, energooszcz\'eadne\par
+16.UEFI(Unified Extensible Firmware Interface) a BIOS(basic input/output system) - BIOS daje mo\'bfliwo\'9c\'e6 nawigowania tylko klawiatur\'b9, a UEFI klawiatur\'b9 i myszk\'b9.UEFI ma "Secure Boot"\par
+{{\field{\*\fldinst{HYPERLINK https://www.freecodecamp.org/news/uefi-vs-bios/ }}{\fldrslt{https://www.freecodecamp.org/news/uefi-vs-bios/\ul0\cf0}}}}\f0\fs22\par
+\par
+\par
+\f1\lang21\par
+}
+ 
