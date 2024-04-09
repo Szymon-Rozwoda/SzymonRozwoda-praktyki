@@ -1,0 +1,15 @@
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\zapis_odczyt_wprowadzenie\zapis_odczyt_wprowadzenie\bin\Debug\net8.0\zapis_odczyt_wprowadzenie.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\zapis_odczyt_wprowadzenie\zapis_odczyt_wprowadzenie\bin\Debug\net8.0\zapis_odczyt_wprowadzenie.deps.json
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\zapis_odczyt_wprowadzenie\zapis_odczyt_wprowadzenie\bin\Debug\net8.0\zapis_odczyt_wprowadzenie.runtimeconfig.json
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\zapis_odczyt_wprowadzenie\zapis_odczyt_wprowadzenie\bin\Debug\net8.0\zapis_odczyt_wprowadzenie.dll
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\zapis_odczyt_wprowadzenie\zapis_odczyt_wprowadzenie\bin\Debug\net8.0\zapis_odczyt_wprowadzenie.pdb
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\zapis_odczyt_wprowadzenie\zapis_odczyt_wprowadzenie\obj\Debug\net8.0\zapis_odczyt_wprowadzenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\zapis_odczyt_wprowadzenie\zapis_odczyt_wprowadzenie\obj\Debug\net8.0\zapis_odczyt_wprowadzenie.AssemblyInfoInputs.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\zapis_odczyt_wprowadzenie\zapis_odczyt_wprowadzenie\obj\Debug\net8.0\zapis_odczyt_wprowadzenie.AssemblyInfo.cs
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\zapis_odczyt_wprowadzenie\zapis_odczyt_wprowadzenie\obj\Debug\net8.0\zapis_odczyt_wprowadzenie.csproj.CoreCompileInputs.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\zapis_odczyt_wprowadzenie\zapis_odczyt_wprowadzenie\obj\Debug\net8.0\zapis_odczyt_wprowadzenie.sourcelink.json
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\zapis_odczyt_wprowadzenie\zapis_odczyt_wprowadzenie\obj\Debug\net8.0\zapis_odczyt_wprowadzenie.dll
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\zapis_odczyt_wprowadzenie\zapis_odczyt_wprowadzenie\obj\Debug\net8.0\refint\zapis_odczyt_wprowadzenie.dll
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\zapis_odczyt_wprowadzenie\zapis_odczyt_wprowadzenie\obj\Debug\net8.0\zapis_odczyt_wprowadzenie.pdb
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\zapis_odczyt_wprowadzenie\zapis_odczyt_wprowadzenie\obj\Debug\net8.0\zapis_odczyt_wprowadzenie.genruntimeconfig.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\zapis_odczyt_wprowadzenie\zapis_odczyt_wprowadzenie\obj\Debug\net8.0\ref\zapis_odczyt_wprowadzenie.dll
