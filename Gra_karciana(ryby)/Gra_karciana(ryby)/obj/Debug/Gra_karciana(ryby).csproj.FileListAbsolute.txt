@@ -1,0 +1,10 @@
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Gra_karciana(ryby)\Gra_karciana(ryby)\bin\Debug\Gra_karciana(ryby).exe.config
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Gra_karciana(ryby)\Gra_karciana(ryby)\bin\Debug\Gra_karciana(ryby).exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Gra_karciana(ryby)\Gra_karciana(ryby)\bin\Debug\Gra_karciana(ryby).pdb
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Gra_karciana(ryby)\Gra_karciana(ryby)\obj\Debug\Gra_karciana(ryby).csproj.AssemblyReference.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Gra_karciana(ryby)\Gra_karciana(ryby)\obj\Debug\Gra_karciana_ryby_.Form1.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Gra_karciana(ryby)\Gra_karciana(ryby)\obj\Debug\Gra_karciana_ryby_.Properties.Resources.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Gra_karciana(ryby)\Gra_karciana(ryby)\obj\Debug\Gra_karciana(ryby).csproj.GenerateResource.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Gra_karciana(ryby)\Gra_karciana(ryby)\obj\Debug\Gra_karciana(ryby).csproj.CoreCompileInputs.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Gra_karciana(ryby)\Gra_karciana(ryby)\obj\Debug\Gra_karciana(ryby).exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Gra_karciana(ryby)\Gra_karciana(ryby)\obj\Debug\Gra_karciana(ryby).pdb
