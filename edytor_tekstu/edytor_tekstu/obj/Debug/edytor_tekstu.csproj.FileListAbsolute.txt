@@ -1,0 +1,10 @@
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\edytor_tekstu\edytor_tekstu\bin\Debug\edytor_tekstu.exe.config
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\edytor_tekstu\edytor_tekstu\bin\Debug\edytor_tekstu.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\edytor_tekstu\edytor_tekstu\bin\Debug\edytor_tekstu.pdb
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\edytor_tekstu\edytor_tekstu\obj\Debug\edytor_tekstu.csproj.AssemblyReference.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\edytor_tekstu\edytor_tekstu\obj\Debug\edytor_tekstu.Form1.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\edytor_tekstu\edytor_tekstu\obj\Debug\edytor_tekstu.Properties.Resources.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\edytor_tekstu\edytor_tekstu\obj\Debug\edytor_tekstu.csproj.GenerateResource.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\edytor_tekstu\edytor_tekstu\obj\Debug\edytor_tekstu.csproj.CoreCompileInputs.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\edytor_tekstu\edytor_tekstu\obj\Debug\edytor_tekstu.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\edytor_tekstu\edytor_tekstu\obj\Debug\edytor_tekstu.pdb
