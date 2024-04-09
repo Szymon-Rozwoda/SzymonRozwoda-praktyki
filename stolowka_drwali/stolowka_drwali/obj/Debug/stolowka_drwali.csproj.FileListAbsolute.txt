@@ -1,0 +1,10 @@
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\stolowka_drwali\stolowka_drwali\bin\Debug\stolowka_drwali.exe.config
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\stolowka_drwali\stolowka_drwali\bin\Debug\stolowka_drwali.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\stolowka_drwali\stolowka_drwali\bin\Debug\stolowka_drwali.pdb
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\stolowka_drwali\stolowka_drwali\obj\Debug\stolowka_drwali.csproj.AssemblyReference.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\stolowka_drwali\stolowka_drwali\obj\Debug\stolowka_drwali.Form1.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\stolowka_drwali\stolowka_drwali\obj\Debug\stolowka_drwali.Properties.Resources.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\stolowka_drwali\stolowka_drwali\obj\Debug\stolowka_drwali.csproj.GenerateResource.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\stolowka_drwali\stolowka_drwali\obj\Debug\stolowka_drwali.csproj.CoreCompileInputs.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\stolowka_drwali\stolowka_drwali\obj\Debug\stolowka_drwali.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\stolowka_drwali\stolowka_drwali\obj\Debug\stolowka_drwali.pdb
