@@ -25,7 +25,29 @@ namespace Gra_karciana_ryby_
 
         private void buttonStart_Click(object sender, EventArgs e)
         {
+            if (String.IsNullOrEmpty(textName.Text))
+            {
+                MessageBox.Show("Wpisz swoje imię", "Nie można jeszcze rozpocząć gry.");
+                return;
+            }
+            game = new Game(textName.Text, new List<string> { "Janek","Bartek"},textProgress);
+            buttonStart.Enabled = false;
+            textName.Enabled = false;
+            buttonAsk.Enabled = true;
+            UpdateForm();
+        }
 
+        private void UpdateForm()
+        {
+            listHand.Items.Clear();
+            foreach(String cardName in game.GetPlayerCardNames())
+            {
+                listHand.Items.Add(cardName);
+            }
+            textBooks.Text = game.DescribeBooks();
+            textProgress.Text += game.DescribePlayerHands();
+            textProgress.SelectionStart = textProgress.Text.Length;
+            textProgress.ScrollToCaret();
         }
 
         private void buttonAsk_Click(object sender, EventArgs e)
@@ -40,7 +62,11 @@ namespace Gra_karciana_ryby_
             {
                 textProgress.Text += "Zwycięzcą jest... " + game.GetWinnerName();
                 textBooks.Text = game.DescribeBooks();
-                b
+                buttonAsk.Enabled = false;
+            }
+            else
+            {
+                UpdateForm();
             }
         }
     }

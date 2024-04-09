@@ -89,7 +89,7 @@ namespace Gra_karciana_ryby_
             }
             if(totalCardsGiven == 0)
             {
-                textBoxOnForm.Text += Name + "pobrał kartę z kupki." + Environment.NewLine;
+                textBoxOnForm.Text += Name + " pobrał kartę z kupki." + Environment.NewLine;
                 cards.Add(stock.Deal() );
             }
         }
