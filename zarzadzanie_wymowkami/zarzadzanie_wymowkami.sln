@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zarzadzanie_wymowkami", "zarzadzanie_wymowkami\zarzadzanie_wymowkami.csproj", "{BB7B3ED2-7173-45E5-8214-78C5FF2F26E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB7B3ED2-7173-45E5-8214-78C5FF2F26E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7B3ED2-7173-45E5-8214-78C5FF2F26E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7B3ED2-7173-45E5-8214-78C5FF2F26E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7B3ED2-7173-45E5-8214-78C5FF2F26E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9DD8B46-E695-4323-A211-7054DF9984DC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\zarzadzanie_wymowkami\zarzadzanie_wymowkami\bin\Debug\zarzadzanie_wymowkami.exe.config
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\zarzadzanie_wymowkami\zarzadzanie_wymowkami\bin\Debug\zarzadzanie_wymowkami.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\zarzadzanie_wymowkami\zarzadzanie_wymowkami\bin\Debug\zarzadzanie_wymowkami.pdb
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\zarzadzanie_wymowkami\zarzadzanie_wymowkami\obj\Debug\zarzadzanie_wymowkami.csproj.AssemblyReference.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\zarzadzanie_wymowkami\zarzadzanie_wymowkami\obj\Debug\zarzadzanie_wymowkami.Properties.Resources.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\zarzadzanie_wymowkami\zarzadzanie_wymowkami\obj\Debug\zarzadzanie_wymowkami.csproj.GenerateResource.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\zarzadzanie_wymowkami\zarzadzanie_wymowkami\obj\Debug\zarzadzanie_wymowkami.csproj.CoreCompileInputs.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\zarzadzanie_wymowkami\zarzadzanie_wymowkami\obj\Debug\zarzadzanie_wymowkami.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\zarzadzanie_wymowkami\zarzadzanie_wymowkami\obj\Debug\zarzadzanie_wymowkami.pdb
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\zarzadzanie_wymowkami\zarzadzanie_wymowkami\obj\Debug\zarzadzanie_wymowkami.Form1.resources
