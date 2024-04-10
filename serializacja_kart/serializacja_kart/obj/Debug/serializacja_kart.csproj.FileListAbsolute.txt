@@ -1,0 +1,10 @@
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_kart\serializacja_kart\bin\Debug\serializacja_kart.exe.config
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_kart\serializacja_kart\bin\Debug\serializacja_kart.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_kart\serializacja_kart\bin\Debug\serializacja_kart.pdb
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_kart\serializacja_kart\obj\Debug\serializacja_kart.csproj.AssemblyReference.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_kart\serializacja_kart\obj\Debug\serializacja_kart.Form1.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_kart\serializacja_kart\obj\Debug\serializacja_kart.Properties.Resources.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_kart\serializacja_kart\obj\Debug\serializacja_kart.csproj.GenerateResource.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_kart\serializacja_kart\obj\Debug\serializacja_kart.csproj.CoreCompileInputs.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_kart\serializacja_kart\obj\Debug\serializacja_kart.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_kart\serializacja_kart\obj\Debug\serializacja_kart.pdb
