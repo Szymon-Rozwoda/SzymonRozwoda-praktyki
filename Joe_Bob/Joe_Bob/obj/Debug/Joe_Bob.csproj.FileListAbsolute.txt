@@ -8,3 +8,13 @@ C:\Users\xopero\source\repos\Joe_Bob\Joe_Bob\obj\Debug\Joe_Bob.csproj.CoreCompil
 C:\Users\xopero\source\repos\Joe_Bob\Joe_Bob\obj\Debug\Joe_Bob.exe
 C:\Users\xopero\source\repos\Joe_Bob\Joe_Bob\obj\Debug\Joe_Bob.pdb
 C:\Users\xopero\source\repos\Joe_Bob\Joe_Bob\obj\Debug\Joe_Bob.Form1.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Joe_Bob\Joe_Bob\bin\Debug\Joe_Bob.exe.config
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Joe_Bob\Joe_Bob\bin\Debug\Joe_Bob.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Joe_Bob\Joe_Bob\bin\Debug\Joe_Bob.pdb
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Joe_Bob\Joe_Bob\obj\Debug\Joe_Bob.csproj.AssemblyReference.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Joe_Bob\Joe_Bob\obj\Debug\Joe_Bob.Form1.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Joe_Bob\Joe_Bob\obj\Debug\Joe_Bob.Properties.Resources.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Joe_Bob\Joe_Bob\obj\Debug\Joe_Bob.csproj.GenerateResource.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Joe_Bob\Joe_Bob\obj\Debug\Joe_Bob.csproj.CoreCompileInputs.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Joe_Bob\Joe_Bob\obj\Debug\Joe_Bob.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Joe_Bob\Joe_Bob\obj\Debug\Joe_Bob.pdb

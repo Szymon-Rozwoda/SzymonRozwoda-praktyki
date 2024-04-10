@@ -11,6 +11,7 @@ namespace Joe_Bob
     {
         
     }
+    [Serializable]
     class Guy
     {
         public string Name;

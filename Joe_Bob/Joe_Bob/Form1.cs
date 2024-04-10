@@ -8,6 +8,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
+using System.IO;
+using System.Runtime.Serialization.Formatters.Binary;
+
 namespace Joe_Bob
 {
     public partial class Form1 : Form
@@ -63,6 +67,28 @@ namespace Joe_Bob
         private void button4_Click(object sender, EventArgs e)
         {
             joe.ReciveCash(bob.GiveCash(5));
+            UpdateForm();
+        }
+
+        //serializacja
+        
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            using(Stream output = File.Create("Plik_Joe.dat"))
+            {
+                BinaryFormatter formatter = new BinaryFormatter();
+                formatter.Serialize(output, joe);
+            }
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            using(Stream input = File.OpenRead("Plik_Joe.dat"))
+            {
+                BinaryFormatter formatter = new BinaryFormatter();
+                joe = (Guy)formatter.Deserialize(input);
+            }
             UpdateForm();
         }
     }
