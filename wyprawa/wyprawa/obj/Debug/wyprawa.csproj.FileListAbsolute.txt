@@ -1,0 +1,5 @@
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\wyprawa\wyprawa\obj\Debug\wyprawa.csproj.AssemblyReference.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\wyprawa\wyprawa\obj\Debug\wyprawa.Form1.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\wyprawa\wyprawa\obj\Debug\wyprawa.Properties.Resources.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\wyprawa\wyprawa\obj\Debug\wyprawa.csproj.GenerateResource.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\wyprawa\wyprawa\obj\Debug\wyprawa.csproj.CoreCompileInputs.cache
