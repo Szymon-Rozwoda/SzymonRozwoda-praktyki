@@ -11,7 +11,8 @@ namespace wyprawa
 {
     class Game
     {
-        public IEnumerable<Enemy>Enemies {  get; private set; }
+        //public IEnumerable<Enemy>Enemies {  get; private set; }
+        public List<Enemy> Enemies;
         public Weapon WeaponInRoom { get; private set; }
 
         private Player player;
@@ -37,6 +38,14 @@ namespace wyprawa
                 enemy.Move(random);
             }
         }
+        public bool CheckPotionUsed(string potionName)
+        {
+            return player.CheckPotionUsed(potionName);
+        }
+        public bool IsWeaponEquipped(string weaponName)
+        {
+            return player.IsWeaponEquipped(weaponName);
+        }
         public void Equip(string weaponName)
         {
             player.Equip(weaponName);
@@ -61,22 +70,86 @@ namespace wyprawa
                 enemy.Move(random);
             }
         }
-        private Point GeRandomLocation(Random random)
+        private Point GetRandomLocation(Random random)
         {
-            return new Point(boundaries.Left + random.Next(boundaries.Right / 10 - boundaries.Left / 10) * 10, boundaries.Top + random.Next(boundaries.Bottom / 10 - boundaries.Top / 10) * 10);
+            //int x= 30;
+            //int y = 50;
+
+            int x = boundaries.Left + random.Next(+boundaries.Right / 10 - boundaries.Left / 10) * 10;
+            int y = boundaries.Top + random.Next(boundaries.Bottom / 10 - boundaries.Top / 10) * 10;
+            return new Point(x, y);
+
+
+            /*
+            return new Point(
+                boundaries.Left + random.Next(boundaries.Right / 10 - boundaries.Left / 10) * 10,
+                boundaries.Top + random.Next(boundaries.Bottom / 10 - boundaries.Top / 10) * 10);
+            */
         }
+
         public void NewLevel(Random random)
         {
             level++;
             switch(level)
             {
                 case 1:
-                    Enemies = new List<Enemy>();
-                    Enemies.Add(new(Bat(this, GetRandomLocation(random));
+                    Enemies = new List<Enemy>() { new Bat(this, GetRandomLocation(random)) };
                     WeaponInRoom = new Sword(this, GetRandomLocation(random));
+                    break;
+                case 2:
+                    Enemies.Clear();
+                    Enemies = new List<Enemy>() { new Ghost(this, GetRandomLocation(random)) };
+                    WeaponInRoom = new BluePotion(this, GetRandomLocation(random));
+                    break;
+                case 3:
+                    Enemies.Clear();
+                    Enemies = new List<Enemy>() { new Ghoul(this, GetRandomLocation(random)) };
+                    WeaponInRoom = new Bow(this, GetRandomLocation(random));
+                    break;
+                case 4:
+                    Enemies.Clear();
+                    Enemies = new List<Enemy>() { new Bat(this, GetRandomLocation(random)), new Ghost(this, GetRandomLocation(random)) };
+                    if (CheckPlayerInventory("Łuk"))
+                    {
+                        if(!CheckPlayerInventory("Blue potion") || (CheckPlayerInventory("Blue potion") && player.CheckPotionUsed("Blue potion")))
+                        {
+                            WeaponInRoom = new BluePotion(this,GetRandomLocation(random));
+                        }
+                    }
+                    else
+                    {
+                        WeaponInRoom = new Bow(this, GetRandomLocation(random));
+                    }
+                    
+                    break;
+                case 5:
+                    Enemies.Clear();
+                    Enemies = new List<Enemy>() { new Bat(this, GetRandomLocation(random)), new Ghoul(this, GetRandomLocation(random)) };
+                    WeaponInRoom = new RedPotion(this, GetRandomLocation(random));
+                    break;
+                case 6:
+                    Enemies.Clear();
+                    Enemies = new List<Enemy>() { new Ghost(this, GetRandomLocation(random)), new Ghoul(this, GetRandomLocation(random)) };
+                    WeaponInRoom = new Mace(this, GetRandomLocation(random));
+                    break;
+                case 7:
+                    Enemies.Clear();
+                    Enemies = new List<Enemy>() { new Bat(this, GetRandomLocation(random)), new Ghost(this, GetRandomLocation(random)), new Ghoul(this, GetRandomLocation(random)) };
+                    if (CheckPlayerInventory("Maca"))
+                    {
+                        if (!CheckPlayerInventory("Red potion") || (CheckPlayerInventory("Red potion") && player.CheckPotionUsed("Red potion")))
+                        {
+                            WeaponInRoom = new BluePotion(this, GetRandomLocation(random));
+                        }
+                    }
+                    else
+                    {
+                        WeaponInRoom = new Mace(this, GetRandomLocation(random));
+                    }
                     break;
             }
         }
         
+
     }
 }

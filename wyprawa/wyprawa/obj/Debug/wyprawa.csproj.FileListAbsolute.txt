@@ -3,3 +3,8 @@ C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\wyprawa\wyprawa\obj\Debu
 C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\wyprawa\wyprawa\obj\Debug\wyprawa.Properties.Resources.resources
 C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\wyprawa\wyprawa\obj\Debug\wyprawa.csproj.GenerateResource.cache
 C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\wyprawa\wyprawa\obj\Debug\wyprawa.csproj.CoreCompileInputs.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\wyprawa\wyprawa\bin\Debug\wyprawa.exe.config
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\wyprawa\wyprawa\bin\Debug\wyprawa.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\wyprawa\wyprawa\bin\Debug\wyprawa.pdb
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\wyprawa\wyprawa\obj\Debug\wyprawa.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\wyprawa\wyprawa\obj\Debug\wyprawa.pdb

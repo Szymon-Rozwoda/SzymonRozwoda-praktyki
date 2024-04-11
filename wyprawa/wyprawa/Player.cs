@@ -12,6 +12,8 @@ namespace wyprawa
         private Weapon equippedWeapon;
         public int HitPoints {  get; private set; }
         private List<Weapon> inventory = new List<Weapon>();
+        private const int radius = 10;
+
         public IEnumerable<string> Weapons 
         {
             get
@@ -28,6 +30,14 @@ namespace wyprawa
         {
             HitPoints = 10;
         }
+        public bool IsWeaponEquipped(string weaponName)
+        {
+            if (equippedWeapon != null)
+                if (weaponName.Equals(equippedWeapon.Name))
+                    return true;
+            return false;
+        }
+
         public void Hit(int maxDamage, Random random)
         {
             HitPoints -=random.Next(1,maxDamage);
@@ -51,12 +61,36 @@ namespace wyprawa
             base.location = Move(direction, game.Boundaries);
             if(!game.WeaponInRoom.PickedUp)
             {
-
+                if (Nearby(game.WeaponInRoom.Location, radius))
+                {
+                    game.WeaponInRoom.PickUpWeapon();
+                    inventory.Add(game.WeaponInRoom);
+                    Equip(game.WeaponInRoom.Name);
+                }
             }
         }
         public void Attack(Direction direction, Random random) 
         { 
-            
+            if(equippedWeapon != null)
+            {
+                equippedWeapon.Attack(direction, random);
+            }
+        }
+        public bool CheckPotionUsed(string potionName)
+        {
+            IPotion potion;
+            bool potionUsed = true;
+
+            foreach (Weapon weapon in inventory)
+            {
+                if (weapon.Name == potionName && weapon is IPotion)
+                {
+                    potion = weapon as IPotion;
+                    potionUsed = potion.Used;
+                }
+            }
+
+            return potionUsed;
         }
 
     }

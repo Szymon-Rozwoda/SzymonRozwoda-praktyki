@@ -3,40 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\wyprawa\\wyprawa\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|solutionrelative:wyprawa\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|solutionrelative:wyprawa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|solutionrelative:wyprawa\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\wyprawa\\wyprawa\\bow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|solutionrelative:wyprawa\\bow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|solutionrelative:wyprawa\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\wyprawa\\wyprawa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|solutionrelative:wyprawa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\wyprawa\\wyprawa\\redpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|solutionrelative:wyprawa\\redpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\wyprawa\\wyprawa\\ipotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|solutionrelative:wyprawa\\ipotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\wyprawa\\wyprawa\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|solutionrelative:wyprawa\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|solutionrelative:wyprawa\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\wyprawa\\wyprawa\\mace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|solutionrelative:wyprawa\\mace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\bat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|solutionrelative:wyprawa\\bat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|solutionrelative:wyprawa\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\ghoul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|solutionrelative:wyprawa\\ghoul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\wyprawa\\wyprawa\\bluepotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|solutionrelative:wyprawa\\bluepotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\wyprawa\\wyprawa\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|solutionrelative:wyprawa\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\wyprawa\\wyprawa\\ghoul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|solutionrelative:wyprawa\\ghoul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\wyprawa\\wyprawa\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|solutionrelative:wyprawa\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\wyprawa\\wyprawa\\bat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|solutionrelative:wyprawa\\bat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\wyprawa\\wyprawa\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|solutionrelative:wyprawa\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\wyprawa\\wyprawa\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|solutionrelative:wyprawa\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\wyprawa\\wyprawa\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|solutionrelative:wyprawa\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\wyprawa\\wyprawa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|solutionrelative:wyprawa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\wyprawa\\wyprawa\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62106EB3-2A87-4298-81BD-C5FD80BBCAAF}|wyprawa\\wyprawa.csproj|solutionrelative:wyprawa\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,24 +78,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ghoul.cs",
-              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Ghoul.cs",
-              "RelativeDocumentMoniker": "wyprawa\\Ghoul.cs",
-              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Ghoul.cs",
-              "RelativeToolTip": "wyprawa\\Ghoul.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABRAAAA",
+              "DocumentIndex": 3,
+              "Title": "Bow.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Bow.cs",
+              "RelativeDocumentMoniker": "wyprawa\\Bow.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Bow.cs",
+              "RelativeToolTip": "wyprawa\\Bow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T13:13:02.455Z",
+              "WhenOpened": "2024-04-11T06:22:30.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Game.cs",
+              "RelativeDocumentMoniker": "wyprawa\\Game.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Game.cs",
+              "RelativeToolTip": "wyprawa\\Game.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswD4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:14:04.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Ghost.cs",
               "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Ghost.cs",
               "RelativeDocumentMoniker": "wyprawa\\Ghost.cs",
@@ -76,7 +121,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
+              "Title": "BluePotion.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\BluePotion.cs",
+              "RelativeDocumentMoniker": "wyprawa\\BluePotion.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\BluePotion.cs",
+              "RelativeToolTip": "wyprawa\\BluePotion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:37:54.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RedPotion.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\RedPotion.cs",
+              "RelativeDocumentMoniker": "wyprawa\\RedPotion.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\RedPotion.cs",
+              "RelativeToolTip": "wyprawa\\RedPotion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:30:39.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPotion.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\IPotion.cs",
+              "RelativeDocumentMoniker": "wyprawa\\IPotion.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\IPotion.cs",
+              "RelativeToolTip": "wyprawa\\IPotion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:28:54.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mace.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Mace.cs",
+              "RelativeDocumentMoniker": "wyprawa\\Mace.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Mace.cs",
+              "RelativeToolTip": "wyprawa\\Mace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:25:07.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Form1.cs",
+              "RelativeDocumentMoniker": "wyprawa\\Form1.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Form1.cs",
+              "RelativeToolTip": "wyprawa\\Form1.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAUwH4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:12:50.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Sword.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Sword.cs",
+              "RelativeDocumentMoniker": "wyprawa\\Sword.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Sword.cs",
+              "RelativeToolTip": "wyprawa\\Sword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:15:34.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Enemy.cs",
+              "RelativeDocumentMoniker": "wyprawa\\Enemy.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Enemy.cs",
+              "RelativeToolTip": "wyprawa\\Enemy.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwDIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:18:20.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ghoul.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Ghoul.cs",
+              "RelativeDocumentMoniker": "wyprawa\\Ghoul.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Ghoul.cs",
+              "RelativeToolTip": "wyprawa\\Ghoul.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:13:02.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Bat.cs",
               "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Bat.cs",
               "RelativeDocumentMoniker": "wyprawa\\Bat.cs",
@@ -89,85 +238,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Weapon.cs",
               "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Weapon.cs",
               "RelativeDocumentMoniker": "wyprawa\\Weapon.cs",
               "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Weapon.cs",
               "RelativeToolTip": "wyprawa\\Weapon.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAuwEQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T11:06:47.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Player.cs",
               "RelativeDocumentMoniker": "wyprawa\\Player.cs",
               "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Player.cs",
               "RelativeToolTip": "wyprawa\\Player.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowDoAAAAMAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T10:51:00.103Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Game.cs",
-              "RelativeDocumentMoniker": "wyprawa\\Game.cs",
-              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Game.cs",
-              "RelativeToolTip": "wyprawa\\Game.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAaAAAA",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "wyprawa\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Form1.Designer.cs",
+              "RelativeToolTip": "wyprawa\\Form1.Designer.cs",
+              "ViewState": "AQIAANEBAAAAAAAAAAAewMYBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T10:14:04.774Z",
+              "WhenOpened": "2024-04-11T06:40:57.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Mover.cs",
               "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Mover.cs",
               "RelativeDocumentMoniker": "wyprawa\\Mover.cs",
               "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Mover.cs",
               "RelativeToolTip": "wyprawa\\Mover.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAJAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwEQAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T10:18:58.464Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "22e89c11-8f91-447f-834c-1409ba3ad224",
+        "Display": 0,
+        "X": 412,
+        "Y": 195,
+        "Width": 1151,
+        "Height": 693,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Enemy.cs",
-              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Enemy.cs",
-              "RelativeDocumentMoniker": "wyprawa\\Enemy.cs",
-              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Enemy.cs",
-              "RelativeToolTip": "wyprawa\\Enemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T10:18:20.044Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Form1.cs",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Projekt]",
               "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Form1.cs",
               "RelativeDocumentMoniker": "wyprawa\\Form1.cs",
-              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Form1.cs",
-              "RelativeToolTip": "wyprawa\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\wyprawa\\wyprawa\\Form1.cs [Projekt]",
+              "RelativeToolTip": "wyprawa\\Form1.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T10:12:50.022Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2024-04-11T06:41:03.445Z",
+              "EditorCaption": " [Projekt]"
             }
           ]
         }
