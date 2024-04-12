@@ -3,19 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\Gra_karciana(ryby)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96E43D31-F789-4E9F-BBDD-0D148132D568}|Gra_karciana(ryby)\\Gra_karciana(ryby).csproj|C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\Gra_karciana(ryby)\\gra_karciana(ryby)\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{96E43D31-F789-4E9F-BBDD-0D148132D568}|Gra_karciana(ryby)\\Gra_karciana(ryby).csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\gra_karciana(ryby)\\gra_karciana(ryby)\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96E43D31-F789-4E9F-BBDD-0D148132D568}|Gra_karciana(ryby)\\Gra_karciana(ryby).csproj|solutionrelative:gra_karciana(ryby)\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96E43D31-F789-4E9F-BBDD-0D148132D568}|Gra_karciana(ryby)\\Gra_karciana(ryby).csproj|C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\Gra_karciana(ryby)\\gra_karciana(ryby)\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96E43D31-F789-4E9F-BBDD-0D148132D568}|Gra_karciana(ryby)\\Gra_karciana(ryby).csproj|solutionrelative:gra_karciana(ryby)\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96E43D31-F789-4E9F-BBDD-0D148132D568}|Gra_karciana(ryby)\\Gra_karciana(ryby).csproj|C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\Gra_karciana(ryby)\\gra_karciana(ryby)\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E43D31-F789-4E9F-BBDD-0D148132D568}|Gra_karciana(ryby)\\Gra_karciana(ryby).csproj|solutionrelative:gra_karciana(ryby)\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96E43D31-F789-4E9F-BBDD-0D148132D568}|Gra_karciana(ryby)\\Gra_karciana(ryby).csproj|C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\Gra_karciana(ryby)\\gra_karciana(ryby)\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96E43D31-F789-4E9F-BBDD-0D148132D568}|Gra_karciana(ryby)\\Gra_karciana(ryby).csproj|solutionrelative:gra_karciana(ryby)\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96E43D31-F789-4E9F-BBDD-0D148132D568}|Gra_karciana(ryby)\\Gra_karciana(ryby).csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\gra_karciana(ryby)\\gra_karciana(ryby)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{96E43D31-F789-4E9F-BBDD-0D148132D568}|Gra_karciana(ryby)\\Gra_karciana(ryby).csproj|C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\Gra_karciana(ryby)\\gra_karciana(ryby)\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E43D31-F789-4E9F-BBDD-0D148132D568}|Gra_karciana(ryby)\\Gra_karciana(ryby).csproj|solutionrelative:gra_karciana(ryby)\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E43D31-F789-4E9F-BBDD-0D148132D568}|Gra_karciana(ryby)\\Gra_karciana(ryby).csproj|C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\Gra_karciana(ryby)\\gra_karciana(ryby)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96E43D31-F789-4E9F-BBDD-0D148132D568}|Gra_karciana(ryby)\\Gra_karciana(ryby).csproj|solutionrelative:gra_karciana(ryby)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{96E43D31-F789-4E9F-BBDD-0D148132D568}|Gra_karciana(ryby)\\Gra_karciana(ryby).csproj|C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\Gra_karciana(ryby)\\gra_karciana(ryby)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{96E43D31-F789-4E9F-BBDD-0D148132D568}|Gra_karciana(ryby)\\Gra_karciana(ryby).csproj|solutionrelative:gra_karciana(ryby)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96E43D31-F789-4E9F-BBDD-0D148132D568}|Gra_karciana(ryby)\\Gra_karciana(ryby).csproj|C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\Gra_karciana(ryby)\\gra_karciana(ryby)\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96E43D31-F789-4E9F-BBDD-0D148132D568}|Gra_karciana(ryby)\\Gra_karciana(ryby).csproj|solutionrelative:gra_karciana(ryby)\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +38,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\Gra_karciana(ryby)\\Gra_karciana(ryby)\\Game.cs",
+              "RelativeDocumentMoniker": "Gra_karciana(ryby)\\Game.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\Gra_karciana(ryby)\\Gra_karciana(ryby)\\Game.cs",
+              "RelativeToolTip": "Gra_karciana(ryby)\\Game.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAmwA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:38:16.171Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -52,14 +65,14 @@
               "RelativeDocumentMoniker": "Gra_karciana(ryby)\\Card.cs",
               "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\Gra_karciana(ryby)\\Gra_karciana(ryby)\\Card.cs",
               "RelativeToolTip": "Gra_karciana(ryby)\\Card.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAcwDwAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T10:59:04.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\Gra_karciana(ryby)\\Gra_karciana(ryby)\\Form1.cs",
               "RelativeDocumentMoniker": "Gra_karciana(ryby)\\Form1.cs",
@@ -67,38 +80,24 @@
               "RelativeToolTip": "Gra_karciana(ryby)\\Form1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T10:41:10.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T10:41:10.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\Gra_karciana(ryby)\\Gra_karciana(ryby)\\Game.cs",
-              "RelativeDocumentMoniker": "Gra_karciana(ryby)\\Game.cs",
-              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\Gra_karciana(ryby)\\Gra_karciana(ryby)\\Game.cs",
-              "RelativeToolTip": "Gra_karciana(ryby)\\Game.cs",
-              "ViewState": "AQIAAIEAAAAAAAAAAAAmwI8AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T12:38:16.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Deck.cs",
               "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\Gra_karciana(ryby)\\Gra_karciana(ryby)\\Deck.cs",
               "RelativeDocumentMoniker": "Gra_karciana(ryby)\\Deck.cs",
               "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\Gra_karciana(ryby)\\Gra_karciana(ryby)\\Deck.cs",
               "RelativeToolTip": "Gra_karciana(ryby)\\Deck.cs",
-              "ViewState": "AQIAAFYAAAAAAAAAAADwv4oAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T11:18:43.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\Gra_karciana(ryby)\\Gra_karciana(ryby)\\Player.cs",
               "RelativeDocumentMoniker": "Gra_karciana(ryby)\\Player.cs",
@@ -106,12 +105,11 @@
               "RelativeToolTip": "Gra_karciana(ryby)\\Player.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T11:15:44.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T11:15:44.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\Gra_karciana(ryby)\\Gra_karciana(ryby)\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Gra_karciana(ryby)\\Form1.Designer.cs",
@@ -119,20 +117,18 @@
               "RelativeToolTip": "Gra_karciana(ryby)\\Form1.Designer.cs",
               "ViewState": "AQIAADoAAAAAAAAAAAAowF4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T10:50:11.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T10:50:11.535Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Projekt]",
               "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\Gra_karciana(ryby)\\Gra_karciana(ryby)\\Form1.cs",
               "RelativeDocumentMoniker": "Gra_karciana(ryby)\\Form1.cs",
               "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\Gra_karciana(ryby)\\Gra_karciana(ryby)\\Form1.cs [Projekt]",
               "RelativeToolTip": "Gra_karciana(ryby)\\Form1.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T10:35:40.737Z",
-              "EditorCaption": " [Projekt]"
+              "WhenOpened": "2024-04-08T10:35:40.737Z"
             }
           ]
         }

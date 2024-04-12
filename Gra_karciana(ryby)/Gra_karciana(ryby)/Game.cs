@@ -14,7 +14,7 @@ namespace Gra_karciana_ryby_
         private Dictionary<Values, Player> books;
         private Deck stock;
         private TextBox textBoxOnForm;
-            public Game(string playerName, IEnumerable<string> opponentNames, TextBox textBoxOnForm)
+        public Game(string playerName, IEnumerable<string> opponentNames, TextBox textBoxOnForm)
         {
             Random random = new Random();
             this.textBoxOnForm = textBoxOnForm;

@@ -18,7 +18,7 @@ namespace Gra_karciana_ryby_
             this.Value = value;
         }
 
-        /*  stary Name
+          //stary Name
         public string Name
         {
             get
@@ -26,7 +26,7 @@ namespace Gra_karciana_ryby_
                 return Value.ToString() + " of " + Suit.ToString();
             }
         }
-        */
+        
 
 
         //początek nowego kodu
@@ -53,10 +53,12 @@ namespace Gra_karciana_ryby_
         private static string[] suits = new string[] { "pik", "trefl", "karo", "kier" };
         private static string[] names = new string[] { "", "As", "Dwójka", "Trójka", "Czwórka", "Piątka", "Szóstka", "Siódemka", "Ósemka", "Dziewiątka", "Dziesiątka", "Walet", "Dama", "Król" };
        
+        /*
         public string Name
         {
             get { return names[(int)Value] + " " + suits[(int)Suit]; }
         }
+        */
 
         
         
