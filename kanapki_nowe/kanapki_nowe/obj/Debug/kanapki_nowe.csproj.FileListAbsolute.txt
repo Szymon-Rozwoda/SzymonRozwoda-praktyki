@@ -1,0 +1,17 @@
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\kanapki_nowe\kanapki_nowe\bin\Debug\kanapki_nowe.exe.config
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\kanapki_nowe\kanapki_nowe\bin\Debug\kanapki_nowe.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\kanapki_nowe\kanapki_nowe\bin\Debug\kanapki_nowe.pdb
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\kanapki_nowe\kanapki_nowe\obj\Debug\kanapki_nowe.csproj.AssemblyReference.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\kanapki_nowe\kanapki_nowe\obj\Debug\MainPage.g.cs
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\kanapki_nowe\kanapki_nowe\obj\Debug\MainWindow.g.cs
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\kanapki_nowe\kanapki_nowe\obj\Debug\App.g.cs
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\kanapki_nowe\kanapki_nowe\obj\Debug\kanapki_nowe_MarkupCompile.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\kanapki_nowe\kanapki_nowe\obj\Debug\kanapki_nowe_MarkupCompile.lref
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\kanapki_nowe\kanapki_nowe\obj\Debug\MainPage.baml
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\kanapki_nowe\kanapki_nowe\obj\Debug\MainWindow.baml
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\kanapki_nowe\kanapki_nowe\obj\Debug\kanapki_nowe.g.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\kanapki_nowe\kanapki_nowe\obj\Debug\kanapki_nowe.Properties.Resources.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\kanapki_nowe\kanapki_nowe\obj\Debug\kanapki_nowe.csproj.GenerateResource.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\kanapki_nowe\kanapki_nowe\obj\Debug\kanapki_nowe.csproj.CoreCompileInputs.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\kanapki_nowe\kanapki_nowe\obj\Debug\kanapki_nowe.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\kanapki_nowe\kanapki_nowe\obj\Debug\kanapki_nowe.pdb
