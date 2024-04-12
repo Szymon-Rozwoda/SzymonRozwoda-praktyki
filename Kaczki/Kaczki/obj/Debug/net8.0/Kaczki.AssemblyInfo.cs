@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kaczki")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5392b3a961c9a76c62232404240192bb91d0ee54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e70513773b9c6be21addc40f9c59e017a2d215b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kaczki")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kaczki")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
