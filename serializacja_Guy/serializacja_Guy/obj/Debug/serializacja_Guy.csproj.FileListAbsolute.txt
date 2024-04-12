@@ -1,0 +1,6 @@
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_Guy\serializacja_Guy\obj\Debug\serializacja_Guy.csproj.AssemblyReference.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_Guy\serializacja_Guy\obj\Debug\MainWindow.g.cs
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_Guy\serializacja_Guy\obj\Debug\App.g.cs
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_Guy\serializacja_Guy\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_Guy\serializacja_Guy\obj\Debug\serializacja_Guy_MarkupCompile.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_Guy\serializacja_Guy\obj\Debug\serializacja_Guy_MarkupCompile.lref
