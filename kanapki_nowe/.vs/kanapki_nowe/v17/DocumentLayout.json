@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\kanapki_nowe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B95BD0C-A50D-4204-A6BF-93348A7E235F}|kanapki_nowe\\kanapki_nowe.csproj|C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\kanapki_nowe\\kanapki_nowe\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{9B95BD0C-A50D-4204-A6BF-93348A7E235F}|kanapki_nowe\\kanapki_nowe.csproj|C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\kanapki_nowe\\kanapki_nowe\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B95BD0C-A50D-4204-A6BF-93348A7E235F}|kanapki_nowe\\kanapki_nowe.csproj|solutionrelative:kanapki_nowe\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B95BD0C-A50D-4204-A6BF-93348A7E235F}|kanapki_nowe\\kanapki_nowe.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\kanapki_nowe\\kanapki_nowe\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9B95BD0C-A50D-4204-A6BF-93348A7E235F}|kanapki_nowe\\kanapki_nowe.csproj|solutionrelative:kanapki_nowe\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\xopero\\AppData\\Local\\Temp\\.vsdbgsrc\\dd0384b67f3d4df24d1de99a5df719eed3c4ff28c2dc6242eca31ea44f0af216\\PropertyPathWorker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B95BD0C-A50D-4204-A6BF-93348A7E235F}|kanapki_nowe\\kanapki_nowe.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\kanapki_nowe\\kanapki_nowe\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B95BD0C-A50D-4204-A6BF-93348A7E235F}|kanapki_nowe\\kanapki_nowe.csproj|solutionrelative:kanapki_nowe\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B95BD0C-A50D-4204-A6BF-93348A7E235F}|kanapki_nowe\\kanapki_nowe.csproj|C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\kanapki_nowe\\kanapki_nowe\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,7 +37,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PropertyPathWorker.cs",
               "DocumentMoniker": "C:\\Users\\xopero\\AppData\\Local\\Temp\\.vsdbgsrc\\dd0384b67f3d4df24d1de99a5df719eed3c4ff28c2dc6242eca31ea44f0af216\\PropertyPathWorker.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\dd0384b67f3d4df24d1de99a5df719eed3c4ff28c2dc6242eca31ea44f0af216\\PropertyPathWorker.cs",
@@ -50,13 +50,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\kanapki_nowe\\kanapki_nowe\\MainPage.xaml",
+              "RelativeDocumentMoniker": "kanapki_nowe\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\kanapki_nowe\\kanapki_nowe\\MainPage.xaml",
+              "RelativeToolTip": "kanapki_nowe\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-11T11:43:20.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\kanapki_nowe\\kanapki_nowe\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "kanapki_nowe\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\kanapki_nowe\\kanapki_nowe\\MainPage.xaml.cs",
               "RelativeToolTip": "kanapki_nowe\\MainPage.xaml.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAAAFAAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T11:50:00.881Z",
               "EditorCaption": ""
@@ -71,8 +83,7 @@
               "RelativeToolTip": "kanapki_nowe\\App.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T11:43:38.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T11:43:38.15Z"
             },
             {
               "$type": "Document",
@@ -84,18 +95,6 @@
               "RelativeToolTip": "kanapki_nowe\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-11T11:43:24.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\kanapki_nowe\\kanapki_nowe\\MainPage.xaml",
-              "RelativeDocumentMoniker": "kanapki_nowe\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\kanapki_nowe\\kanapki_nowe\\MainPage.xaml",
-              "RelativeToolTip": "kanapki_nowe\\MainPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-11T11:43:20.694Z",
               "EditorCaption": ""
             }
           ]
