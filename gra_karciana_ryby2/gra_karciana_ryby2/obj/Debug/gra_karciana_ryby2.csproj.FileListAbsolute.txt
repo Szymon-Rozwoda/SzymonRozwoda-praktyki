@@ -1,0 +1,10 @@
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\gra_karciana_ryby2\gra_karciana_ryby2\bin\Debug\gra_karciana_ryby2.exe.config
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\gra_karciana_ryby2\gra_karciana_ryby2\bin\Debug\gra_karciana_ryby2.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\gra_karciana_ryby2\gra_karciana_ryby2\bin\Debug\gra_karciana_ryby2.pdb
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\gra_karciana_ryby2\gra_karciana_ryby2\obj\Debug\gra_karciana_ryby2.csproj.AssemblyReference.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\gra_karciana_ryby2\gra_karciana_ryby2\obj\Debug\gra_karciana_ryby2.Form1.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\gra_karciana_ryby2\gra_karciana_ryby2\obj\Debug\gra_karciana_ryby2.Properties.Resources.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\gra_karciana_ryby2\gra_karciana_ryby2\obj\Debug\gra_karciana_ryby2.csproj.GenerateResource.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\gra_karciana_ryby2\gra_karciana_ryby2\obj\Debug\gra_karciana_ryby2.csproj.CoreCompileInputs.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\gra_karciana_ryby2\gra_karciana_ryby2\obj\Debug\gra_karciana_ryby2.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\gra_karciana_ryby2\gra_karciana_ryby2\obj\Debug\gra_karciana_ryby2.pdb
