@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\gea_karciana_ryby_WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5879BBAC-088B-4BEA-9CFC-FB4B5400B079}|gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\gea_karciana_ryby_wpf\\gea_karciana_ryby_wpf\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5879BBAC-088B-4BEA-9CFC-FB4B5400B079}|gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF.csproj|solutionrelative:gea_karciana_ryby_wpf\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5879BBAC-088B-4BEA-9CFC-FB4B5400B079}|gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\gea_karciana_ryby_wpf\\gea_karciana_ryby_wpf\\cardcomparer_byvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5879BBAC-088B-4BEA-9CFC-FB4B5400B079}|gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF.csproj|solutionrelative:gea_karciana_ryby_wpf\\cardcomparer_byvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5879BBAC-088B-4BEA-9CFC-FB4B5400B079}|gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\gea_karciana_ryby_wpf\\gea_karciana_ryby_wpf\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5879BBAC-088B-4BEA-9CFC-FB4B5400B079}|gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF.csproj|solutionrelative:gea_karciana_ryby_wpf\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5879BBAC-088B-4BEA-9CFC-FB4B5400B079}|gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\gea_karciana_ryby_wpf\\gea_karciana_ryby_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5879BBAC-088B-4BEA-9CFC-FB4B5400B079}|gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF.csproj|solutionrelative:gea_karciana_ryby_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5879BBAC-088B-4BEA-9CFC-FB4B5400B079}|gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\gea_karciana_ryby_wpf\\gea_karciana_ryby_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5879BBAC-088B-4BEA-9CFC-FB4B5400B079}|gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF.csproj|solutionrelative:gea_karciana_ryby_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5879BBAC-088B-4BEA-9CFC-FB4B5400B079}|gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\gea_karciana_ryby_wpf\\gea_karciana_ryby_wpf\\suits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5879BBAC-088B-4BEA-9CFC-FB4B5400B079}|gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF.csproj|solutionrelative:gea_karciana_ryby_wpf\\suits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5879BBAC-088B-4BEA-9CFC-FB4B5400B079}|gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\gea_karciana_ryby_wpf\\gea_karciana_ryby_wpf\\values.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5879BBAC-088B-4BEA-9CFC-FB4B5400B079}|gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF.csproj|solutionrelative:gea_karciana_ryby_wpf\\values.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5879BBAC-088B-4BEA-9CFC-FB4B5400B079}|gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\gea_karciana_ryby_wpf\\gea_karciana_ryby_wpf\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5879BBAC-088B-4BEA-9CFC-FB4B5400B079}|gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF.csproj|solutionrelative:gea_karciana_ryby_wpf\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5879BBAC-088B-4BEA-9CFC-FB4B5400B079}|gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\gea_karciana_ryby_wpf\\gea_karciana_ryby_wpf\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5879BBAC-088B-4BEA-9CFC-FB4B5400B079}|gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF.csproj|solutionrelative:gea_karciana_ryby_wpf\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5879BBAC-088B-4BEA-9CFC-FB4B5400B079}|gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF.csproj|c:\\users\\xopero\\documents\\github\\szymonrozwoda-praktyki\\gea_karciana_ryby_wpf\\gea_karciana_ryby_wpf\\cardcomparer_bysuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5879BBAC-088B-4BEA-9CFC-FB4B5400B079}|gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF.csproj|solutionrelative:gea_karciana_ryby_wpf\\cardcomparer_bysuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF\\Card.cs",
+              "RelativeDocumentMoniker": "gea_karciana_ryby_WPF\\Card.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF\\Card.cs",
+              "RelativeToolTip": "gea_karciana_ryby_WPF\\Card.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:57:31.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CardComparer_bySuit.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF\\CardComparer_bySuit.cs",
+              "RelativeDocumentMoniker": "gea_karciana_ryby_WPF\\CardComparer_bySuit.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF\\CardComparer_bySuit.cs",
+              "RelativeToolTip": "gea_karciana_ryby_WPF\\CardComparer_bySuit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:57:01.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardComparer_byValue.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF\\CardComparer_byValue.cs",
+              "RelativeDocumentMoniker": "gea_karciana_ryby_WPF\\CardComparer_byValue.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF\\CardComparer_byValue.cs",
+              "RelativeToolTip": "gea_karciana_ryby_WPF\\CardComparer_byValue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:56:33.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF\\Deck.cs",
+              "RelativeDocumentMoniker": "gea_karciana_ryby_WPF\\Deck.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF\\Deck.cs",
+              "RelativeToolTip": "gea_karciana_ryby_WPF\\Deck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:56:07.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF\\Game.cs",
+              "RelativeDocumentMoniker": "gea_karciana_ryby_WPF\\Game.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF\\Game.cs",
+              "RelativeToolTip": "gea_karciana_ryby_WPF\\Game.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAM0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:55:30.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF\\Player.cs",
+              "RelativeDocumentMoniker": "gea_karciana_ryby_WPF\\Player.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF\\Player.cs",
+              "RelativeToolTip": "gea_karciana_ryby_WPF\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:49:52.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Values.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF\\Values.cs",
+              "RelativeDocumentMoniker": "gea_karciana_ryby_WPF\\Values.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF\\Values.cs",
+              "RelativeToolTip": "gea_karciana_ryby_WPF\\Values.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:48:46.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Suits.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF\\Suits.cs",
+              "RelativeDocumentMoniker": "gea_karciana_ryby_WPF\\Suits.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF\\Suits.cs",
+              "RelativeToolTip": "gea_karciana_ryby_WPF\\Suits.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:48:16.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "gea_karciana_ryby_WPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF\\MainWindow.xaml",
+              "RelativeToolTip": "gea_karciana_ryby_WPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-12T07:46:49.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "gea_karciana_ryby_WPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\xopero\\Documents\\GitHub\\SzymonRozwoda-praktyki\\gea_karciana_ryby_WPF\\gea_karciana_ryby_WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "gea_karciana_ryby_WPF\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:46:45.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

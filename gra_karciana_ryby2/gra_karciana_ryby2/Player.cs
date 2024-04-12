@@ -92,8 +92,12 @@ namespace gra_karciana_ryby2
             if (totalCardsGiven == 0 && stock.Count > 0)
             {
                 textBoxOnForm.Text += Name +
-                      " must draw from the stock." + Environment.NewLine;
+                      " must draw from the stock." + Environment.NewLine+Environment.NewLine;
                 cards.Add(stock.Deal());
+            }
+            else
+            {
+                textBoxOnForm.Text += Environment.NewLine;
             }
         }
         public int CardCount { get { return cards.Count; } }

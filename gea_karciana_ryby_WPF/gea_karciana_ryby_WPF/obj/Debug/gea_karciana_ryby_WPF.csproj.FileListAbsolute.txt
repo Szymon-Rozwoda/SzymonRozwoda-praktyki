@@ -1,0 +1,15 @@
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\gea_karciana_ryby_WPF\gea_karciana_ryby_WPF\obj\Debug\gea_karciana_ryby_WPF.csproj.AssemblyReference.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\gea_karciana_ryby_WPF\gea_karciana_ryby_WPF\obj\Debug\App.g.cs
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\gea_karciana_ryby_WPF\gea_karciana_ryby_WPF\obj\Debug\gea_karciana_ryby_WPF_MarkupCompile.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\gea_karciana_ryby_WPF\gea_karciana_ryby_WPF\bin\Debug\gea_karciana_ryby_WPF.exe.config
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\gea_karciana_ryby_WPF\gea_karciana_ryby_WPF\bin\Debug\gea_karciana_ryby_WPF.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\gea_karciana_ryby_WPF\gea_karciana_ryby_WPF\bin\Debug\gea_karciana_ryby_WPF.pdb
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\gea_karciana_ryby_WPF\gea_karciana_ryby_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\gea_karciana_ryby_WPF\gea_karciana_ryby_WPF\obj\Debug\gea_karciana_ryby_WPF_MarkupCompile.lref
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\gea_karciana_ryby_WPF\gea_karciana_ryby_WPF\obj\Debug\MainWindow.baml
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\gea_karciana_ryby_WPF\gea_karciana_ryby_WPF\obj\Debug\gea_karciana_ryby_WPF.g.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\gea_karciana_ryby_WPF\gea_karciana_ryby_WPF\obj\Debug\gea_karciana_ryby_WPF.Properties.Resources.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\gea_karciana_ryby_WPF\gea_karciana_ryby_WPF\obj\Debug\gea_karciana_ryby_WPF.csproj.GenerateResource.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\gea_karciana_ryby_WPF\gea_karciana_ryby_WPF\obj\Debug\gea_karciana_ryby_WPF.csproj.CoreCompileInputs.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\gea_karciana_ryby_WPF\gea_karciana_ryby_WPF\obj\Debug\gea_karciana_ryby_WPF.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\gea_karciana_ryby_WPF\gea_karciana_ryby_WPF\obj\Debug\gea_karciana_ryby_WPF.pdb

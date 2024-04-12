@@ -4,43 +4,65 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace gra_karciana_ryby2
+namespace gea_karciana_ryby_WPF
 {
     using System.ComponentModel;
     using System.Collections.ObjectModel;
-    using System.Windows.Forms;
+    using System.Windows.Controls;
 
-    class Game
+    class Game : INotifyPropertyChanged
     {
         private List<Player> players;
         private Dictionary<Values, Player> books;
         private Deck stock;
-        private TextBox textBoxOnForm;
-        public Game(string playerName, IEnumerable<string> opponentNames, TextBox textBoxOnForm)
+        public bool GameInProgress { get; private set; }
+        public bool GameNotStarted { get { return !GameInProgress; } }
+        public string PlayerName { get; set; }
+        public ObservableCollection<string> Hand { get; private set; }
+        public string Books { get { return DescribeBooks(); } }
+        public string GameProgress { get; private set; }
+
+        public Game()
         {
+            PlayerName = "Ed";
+            Hand = new ObservableCollection<string>();
+            ResetGame();
+        }
+
+        public void AddProgress(string progress)
+        {
+            GameProgress = progress + Environment.NewLine + GameProgress;
+            OnPropertyChanged("GameProgress");
+        }
+
+        public void ClearProgress()
+        {
+            GameProgress = String.Empty;
+            OnPropertyChanged("GameProgress");
+        }
+
+        public void StartGame()
+        {
+            ClearProgress();
+            GameInProgress = true;
+            OnPropertyChanged("GameInProgress");
+            OnPropertyChanged("GameNotStarted");
             Random random = new Random();
-            this.textBoxOnForm = textBoxOnForm;
             players = new List<Player>();
-            players.Add(new Player(playerName, random, textBoxOnForm));
-            foreach (string player in opponentNames)
-                players.Add(new Player(player, random, textBoxOnForm));
-            books = new Dictionary<Values, Player>();
-            stock = new Deck();
+            players.Add(new Player(PlayerName, random, this));
+            players.Add(new Player("Bob", random, this));
+            players.Add(new Player("Joe", random, this));
             Deal();
             players[0].SortHand();
+            Hand.Clear();
+            foreach (String cardName in GetPlayerCardNames())
+                Hand.Add(cardName);
+            if (!GameInProgress)
+                AddProgress(DescribePlayerHands());
+            OnPropertyChanged("Books");
         }
 
-        private void Deal()
-        {
-            stock.Shuffle();
-            for (int i = 0; i < 5; i++)
-                foreach (Player player in players)
-                    player.TakeCard(stock.Deal());
-            foreach (Player player in players)
-                PullOutBooks(player);
-        }
-
-        public bool PlayOneRound(int selectedPlayerCard)
+        public void PlayOneRound(int selectedPlayerCard)
         {
             Values cardToAskFor = players[0].Peek(selectedPlayerCard).Value;
             for (int i = 0; i < players.Count; i++)
@@ -51,8 +73,7 @@ namespace gra_karciana_ryby2
                     players[i].AskForACard(players, i, stock);
                 if (PullOutBooks(players[i]))
                 {
-                    textBoxOnForm.Text += players[i].Name
-                                  + " drew a new hand" + Environment.NewLine;
+                    AddProgress(players[i].Name + " drew a new hand");
                     int card = 1;
                     while (card <= 5 && stock.Count > 0)
                     {
@@ -60,15 +81,51 @@ namespace gra_karciana_ryby2
                         card++;
                     }
                 }
+                OnPropertyChanged("Books");
                 players[0].SortHand();
                 if (stock.Count == 0)
                 {
-                    textBoxOnForm.Text =
-                         "The stock is out of cards. Game over!" + Environment.NewLine;
-                    return true;
+                    AddProgress("The stock is out of cards. Game over!");
+                    AddProgress("The winner is... " + GetWinnerName());
+                    ResetGame();
+                    return;
                 }
             }
-            return false;
+            Hand.Clear();
+            foreach (String cardName in GetPlayerCardNames())
+                Hand.Add(cardName);
+            if (!GameInProgress)
+                AddProgress(DescribePlayerHands());
+        }
+
+        public void ResetGame()
+        {
+            GameInProgress = false;
+            OnPropertyChanged("GameInProgress");
+            OnPropertyChanged("GameNotStarted");
+            books = new Dictionary<Values, Player>();
+            stock = new Deck();
+            Hand.Clear();
+        }
+
+        public event PropertyChangedEventHandler PropertyChanged;
+        private void OnPropertyChanged(string propertyName)
+        {
+            PropertyChangedEventHandler propertyChangedEvent = PropertyChanged;
+            if (propertyChangedEvent != null)
+            {
+                propertyChangedEvent(this, new PropertyChangedEventArgs(propertyName));
+            }
+        }
+
+        private void Deal()
+        {
+            stock.Shuffle();
+            for (int i = 0; i < 5; i++)
+                foreach (Player player in players)
+                    player.TakeCard(stock.Deal());
+            foreach (Player player in players)
+                PullOutBooks(player);
         }
 
         public bool PullOutBooks(Player player)
@@ -124,6 +181,9 @@ namespace gra_karciana_ryby2
                 return winnerList;
         }
 
+
+        // Here are a couple of short methods that were already written for you:
+
         public IEnumerable<string> GetPlayerCardNames()
         {
             return players[0].GetCardNames();
@@ -134,16 +194,12 @@ namespace gra_karciana_ryby2
             string description = "";
             for (int i = 0; i < players.Count; i++)
             {
-                description += Environment.NewLine;
                 description += players[i].Name + " has " + players[i].CardCount;
                 if (players[i].CardCount == 1)
                     description += " card." + Environment.NewLine;
                 else
                     description += " cards." + Environment.NewLine;
-                
             }
-
-            description += Environment.NewLine + Environment.NewLine;
             description += "The stock has " + stock.Count + " cards left.";
             return description;
         }
