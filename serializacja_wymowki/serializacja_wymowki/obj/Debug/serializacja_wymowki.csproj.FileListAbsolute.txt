@@ -1,0 +1,10 @@
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_wymowki\serializacja_wymowki\bin\Debug\serializacja_wymowki.exe.config
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_wymowki\serializacja_wymowki\bin\Debug\serializacja_wymowki.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_wymowki\serializacja_wymowki\bin\Debug\serializacja_wymowki.pdb
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_wymowki\serializacja_wymowki\obj\Debug\serializacja_wymowki.csproj.AssemblyReference.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_wymowki\serializacja_wymowki\obj\Debug\serializacja_wymowki.Form1.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_wymowki\serializacja_wymowki\obj\Debug\serializacja_wymowki.Properties.Resources.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_wymowki\serializacja_wymowki\obj\Debug\serializacja_wymowki.csproj.GenerateResource.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_wymowki\serializacja_wymowki\obj\Debug\serializacja_wymowki.csproj.CoreCompileInputs.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_wymowki\serializacja_wymowki\obj\Debug\serializacja_wymowki.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\serializacja_wymowki\serializacja_wymowki\obj\Debug\serializacja_wymowki.pdb
