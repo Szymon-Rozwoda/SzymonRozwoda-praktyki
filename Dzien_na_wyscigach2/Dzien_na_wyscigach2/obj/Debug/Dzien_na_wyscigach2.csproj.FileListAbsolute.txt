@@ -1,0 +1,10 @@
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Dzien_na_wyscigach2\Dzien_na_wyscigach2\bin\Debug\Dzien_na_wyscigach2.exe.config
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Dzien_na_wyscigach2\Dzien_na_wyscigach2\bin\Debug\Dzien_na_wyscigach2.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Dzien_na_wyscigach2\Dzien_na_wyscigach2\bin\Debug\Dzien_na_wyscigach2.pdb
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Dzien_na_wyscigach2\Dzien_na_wyscigach2\obj\Debug\Dzien_na_wyscigach2.csproj.AssemblyReference.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Dzien_na_wyscigach2\Dzien_na_wyscigach2\obj\Debug\Dzien_na_wyscigach2.Form1.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Dzien_na_wyscigach2\Dzien_na_wyscigach2\obj\Debug\Dzien_na_wyscigach2.Properties.Resources.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Dzien_na_wyscigach2\Dzien_na_wyscigach2\obj\Debug\Dzien_na_wyscigach2.csproj.GenerateResource.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Dzien_na_wyscigach2\Dzien_na_wyscigach2\obj\Debug\Dzien_na_wyscigach2.csproj.CoreCompileInputs.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Dzien_na_wyscigach2\Dzien_na_wyscigach2\obj\Debug\Dzien_na_wyscigach2.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Dzien_na_wyscigach2\Dzien_na_wyscigach2\obj\Debug\Dzien_na_wyscigach2.pdb
