@@ -1,0 +1,50 @@
+---Pierwszy tydzień---
+25.03.2024 - Zaznajomienie się ze stanowiskiem pracy i z zasadmi BHP
+26.03.2024 - Teoria - algorytmy szyfrowania, kompresja, kopie zapasowe, wirtualizacja
+27.03.2024 - Teoria - systemy wersjonowania, serwer NAS, .NET Framework, RAID, metody przechowywania plików, 
+28.03.2024 - Teoria - pliki systemowe, Protokoły IP, rozszerznia plików, procesy i wątki, rodzaje dysków, BIOS
+29.03.2024 - Przygotowanie do pracy z książką, przygotowanie reozytorium i visiual studio
+
+---Drugi tydzień---
+1.04.2024 - --święto--
+2.04.2024 - Pierwsze zapoznanie z C#, poznanie zmiennych, pętli i instrukcji if/else i switch. Stworzenie aplikacji z kilkoma przyciskami, który po wcisnięciu jednego z przycisku, wywołuje instrukcje if/else, pętlę, switch lub wyświetlenie tekstu
+(Kontrolki,Operatory_matematyczne)
+
+3.04.2024 - Stworznie programu, która po wciśnięciu przycisku odbija tekst do lewej lub do prawej, Stworzenie programu z wykorzystaniem wyskakującego okienka, Storzenie programu, w którym po wcisnięciu przycisku każdy element miga innym kolorem z płynnymi przejściami
+(if_else instrukcja, okienko, PictureBox)
+
+4.04.2024 - Poznanie obiektów, stworzenie programu z użyciem trzech obiektów, który pozwala za pomoca przycisków przesyłać pieniądze pomiędzy instancjami tych obiektów, dzięki serializacji można zapisać stan obiektów nawet po zakończeniu programu
+(Joe_Bob)
+
+5.04.2024 - zapoznainie z typami i referencjami. Sworzenie programu obliczającego odległość na podstawie pobrania dwóch zmiennych od użytkownika i koszt paliwa na podstawie tej odległości. Stwozenie programu, który zamienia referencje instancjom klasy
+(Kalkulator_odleglosci, slonie)
+
+---Trzeci tydzień---
+8.04.2024 - tablice, stworzenie programu przygotowującego losową kartę dań za pomocą talicy i klasy Random. Program animujący kontrolki, odbijając je od krawędzi formularza
+(kanapki, ruch_label)
+
+9.04.2024 - średni projekt polegający na stworzeniu gry, wyświetlają się losowe litery, jeśli gracz wpisze literkę to znika, a jeśli nie to wskaźnik dokładności jest zmniejszany. Tempo zwiększa się z każdą literką. Gracz przegrywa, gdy cała plansza się zapełni
+(gra_literki)
+
+10.04.2024 - duży projekt podsumowujący dotychczasową pracę. Symulator wyścigów z domem bukmaherskim. W wyścigu biorą udział 4 psy i obstawiają 3 osoby. Psy biegą do mety i poruszają się do przodu o losową liczbę punktów. Zakłady zawierane są pojedynczo, za pomocą checkbox wybiera się obecnego obstawiającego, podaję się liczbę i zatwierdza. Gdy już wszystko jest zatwierdzone klika się start i kto wygra dostaje pieniądze i przechodzi się do kolejnej rundy.
+(Dzien_na_wyscigach2)
+
+11.04.2024 - Hermetyzacja(private), program do wyceny kosztów przyjęć, hermetyzowanie klas, by zapewnić poprawne działanie programu. Test pełna hermetyzacja , program do obliczania potrzebnej paszy używający właściwości automatycznych i konstruktora
+(kalkulator_przyjec, Kalkulator_krow)
+
+12.04.2024 - dziedziczenie, override i virtual, program konsolowa pokazująca zasady dziedziczenia z pomocą słów kluczowych virtual i override, klasa sejf może być owtorzona przez ślusarza, ale złodziej dziedziczy metody po słusarzu, a metode odlożenia zawartości na miejscu nadpisuje. Kolejny program to system zarządzania ulem, klasa bazowa Bee i pochodne Queen i Worker są uporządkowane i przejrzyste dzięki dziedziczeniu
+(zlodziej_klejnotow, zarzadzanie_pszczolami)
+
+---Czwarty tydzień---
+15.04.2024 - interfejsy i klasy abstrakcyjne. Program do zabawy w chowanego, każdy pokój to oddzielny obiekt dziedziczący po klasie abstrakcyjnej Location. Pokoje z drzwiami wejściowymi mają specjalne interfejsy. Pokoje z miejscami do chowania mają do tego specjalny interfejs
+(model_domu)
+
+16.04.2024 - typy wyliczeniowe i kolekcje.średni projekt - Gra karciana polegająca na zebraniu jednej wartości we wszystkich 4 wariantach. Gra obsługuje całą wymianę kart i automatyczne wykładanie grup. Kto zbierze najwięcej grup wygrywa. Projekt wykorzystuje całą zebraną dotychczasową wiedzę i przedstawia wykorzystanie kolekcji, kolejki i stosu
+(gra_karciana_ryby2)
+
+17.04.2024 - odczyt, zapis i okna dialogowe. Program do zarządzania wymówkami. Dzięki przyciskowi z odczytem plików można otworzyć zapisaną wymówkę, a za pomocą przycisku z zapisem można obecną wymówkę zapisać do określonego folderu. Jest też przycisk do otworzenia losej wymówki.
+(zarzadzanie_wymowkami)
+18.04.2024 - duży projekt podsumowujący dotychczasową pracę zawierający wszystkie poprzednie zagadnienia. Gra turowa z kilkoma poziomami, w której zadaniem jest pokonanie przeciwników na planszy za pomoca broni podniesionych podczas rozgrywki, każda klasa występująca bezpośrednio na planszy dziedziczy po specjalnej klasie abstrakcyjnej, a formularz łączy planszę, inwentarz i kontrolki ruchu
+(wyprawa2)
+19.04.2024 - 
+
