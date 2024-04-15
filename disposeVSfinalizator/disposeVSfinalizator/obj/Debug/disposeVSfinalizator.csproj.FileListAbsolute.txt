@@ -1,0 +1,9 @@
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\disposeVSfinalizator\disposeVSfinalizator\bin\Debug\disposeVSfinalizator.exe.config
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\disposeVSfinalizator\disposeVSfinalizator\bin\Debug\disposeVSfinalizator.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\disposeVSfinalizator\disposeVSfinalizator\bin\Debug\disposeVSfinalizator.pdb
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\disposeVSfinalizator\disposeVSfinalizator\obj\Debug\disposeVSfinalizator.csproj.AssemblyReference.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\disposeVSfinalizator\disposeVSfinalizator\obj\Debug\disposeVSfinalizator.Properties.Resources.resources
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\disposeVSfinalizator\disposeVSfinalizator\obj\Debug\disposeVSfinalizator.csproj.GenerateResource.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\disposeVSfinalizator\disposeVSfinalizator\obj\Debug\disposeVSfinalizator.csproj.CoreCompileInputs.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\disposeVSfinalizator\disposeVSfinalizator\obj\Debug\disposeVSfinalizator.exe
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\disposeVSfinalizator\disposeVSfinalizator\obj\Debug\disposeVSfinalizator.pdb
