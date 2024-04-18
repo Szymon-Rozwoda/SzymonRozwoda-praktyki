@@ -35,10 +35,13 @@
             this.clients = new System.Windows.Forms.RadioButton();
             this.products = new System.Windows.Forms.RadioButton();
             this.dodajBtn = new System.Windows.Forms.Button();
-            this.szukajBtn = new System.Windows.Forms.Button();
+            this.SzukajBtn = new System.Windows.Forms.Button();
             this.EdytujBtn = new System.Windows.Forms.Button();
             this.UsunBtn = new System.Windows.Forms.Button();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.textBox10 = new System.Windows.Forms.TextBox();
+            this.label16 = new System.Windows.Forms.Label();
+            this.label15 = new System.Windows.Forms.Label();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.label7 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
@@ -67,14 +70,16 @@
             this.textBox11 = new System.Windows.Forms.TextBox();
             this.label12 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
-            this.label15 = new System.Windows.Forms.Label();
-            this.label16 = new System.Windows.Forms.Label();
-            this.textBox10 = new System.Windows.Forms.TextBox();
+            this.Zamowienie = new System.Windows.Forms.Button();
+            this.textBox14 = new System.Windows.Forms.TextBox();
+            this.label17 = new System.Windows.Forms.Label();
+            this.groupBox6 = new System.Windows.Forms.GroupBox();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
             this.groupBox4.SuspendLayout();
             this.groupBox5.SuspendLayout();
+            this.groupBox6.SuspendLayout();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -158,15 +163,15 @@
             this.dodajBtn.UseVisualStyleBackColor = true;
             this.dodajBtn.Click += new System.EventHandler(this.dodajBtn_Click);
             // 
-            // szukajBtn
+            // SzukajBtn
             // 
-            this.szukajBtn.Location = new System.Drawing.Point(6, 39);
-            this.szukajBtn.Name = "szukajBtn";
-            this.szukajBtn.Size = new System.Drawing.Size(75, 23);
-            this.szukajBtn.TabIndex = 10;
-            this.szukajBtn.Text = "szukaj";
-            this.szukajBtn.UseVisualStyleBackColor = true;
-            this.szukajBtn.Click += new System.EventHandler(this.szukajBtn_Click);
+            this.SzukajBtn.Location = new System.Drawing.Point(6, 39);
+            this.SzukajBtn.Name = "SzukajBtn";
+            this.SzukajBtn.Size = new System.Drawing.Size(75, 23);
+            this.SzukajBtn.TabIndex = 10;
+            this.SzukajBtn.Text = "szukaj";
+            this.SzukajBtn.UseVisualStyleBackColor = true;
+            this.SzukajBtn.Click += new System.EventHandler(this.SzukajBtn_Click);
             // 
             // EdytujBtn
             // 
@@ -201,6 +206,32 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Usuń dane";
             // 
+            // textBox10
+            // 
+            this.textBox10.Location = new System.Drawing.Point(142, 13);
+            this.textBox10.Name = "textBox10";
+            this.textBox10.Size = new System.Drawing.Size(100, 20);
+            this.textBox10.TabIndex = 15;
+            this.textBox10.Text = " WHERE 1";
+            // 
+            // label16
+            // 
+            this.label16.AutoSize = true;
+            this.label16.Location = new System.Drawing.Point(95, 16);
+            this.label16.Name = "label16";
+            this.label16.Size = new System.Drawing.Size(41, 13);
+            this.label16.TabIndex = 14;
+            this.label16.Text = "label16";
+            // 
+            // label15
+            // 
+            this.label15.AutoSize = true;
+            this.label15.Location = new System.Drawing.Point(6, 16);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(83, 13);
+            this.label15.TabIndex = 13;
+            this.label15.Text = "DELETE FROM";
+            // 
             // groupBox3
             // 
             this.groupBox3.Controls.Add(this.dodajBtn);
@@ -221,7 +252,7 @@
             this.groupBox3.Size = new System.Drawing.Size(200, 203);
             this.groupBox3.TabIndex = 14;
             this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "Wpisz dane";
+            this.groupBox3.Text = "Dodaj dane";
             // 
             // label7
             // 
@@ -335,7 +366,7 @@
             this.groupBox4.Controls.Add(this.label9);
             this.groupBox4.Controls.Add(this.textBox8);
             this.groupBox4.Controls.Add(this.label8);
-            this.groupBox4.Controls.Add(this.szukajBtn);
+            this.groupBox4.Controls.Add(this.SzukajBtn);
             this.groupBox4.Location = new System.Drawing.Point(12, 200);
             this.groupBox4.Name = "groupBox4";
             this.groupBox4.Size = new System.Drawing.Size(479, 74);
@@ -463,37 +494,50 @@
             this.label11.TabIndex = 12;
             this.label11.Text = "UPDATE";
             // 
-            // label15
+            // Zamowienie
             // 
-            this.label15.AutoSize = true;
-            this.label15.Location = new System.Drawing.Point(6, 16);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(83, 13);
-            this.label15.TabIndex = 13;
-            this.label15.Text = "DELETE FROM";
+            this.Zamowienie.Location = new System.Drawing.Point(6, 58);
+            this.Zamowienie.Name = "Zamowienie";
+            this.Zamowienie.Size = new System.Drawing.Size(75, 23);
+            this.Zamowienie.TabIndex = 18;
+            this.Zamowienie.Text = "Zamówienie";
+            this.Zamowienie.UseVisualStyleBackColor = true;
+            this.Zamowienie.Click += new System.EventHandler(this.zamowienie_Click);
             // 
-            // label16
+            // textBox14
             // 
-            this.label16.AutoSize = true;
-            this.label16.Location = new System.Drawing.Point(95, 16);
-            this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(41, 13);
-            this.label16.TabIndex = 14;
-            this.label16.Text = "label16";
+            this.textBox14.Location = new System.Drawing.Point(6, 32);
+            this.textBox14.Name = "textBox14";
+            this.textBox14.Size = new System.Drawing.Size(100, 20);
+            this.textBox14.TabIndex = 19;
             // 
-            // textBox10
+            // label17
             // 
-            this.textBox10.Location = new System.Drawing.Point(142, 13);
-            this.textBox10.Name = "textBox10";
-            this.textBox10.Size = new System.Drawing.Size(100, 20);
-            this.textBox10.TabIndex = 15;
-            this.textBox10.Text = " WHERE 1";
+            this.label17.AutoSize = true;
+            this.label17.Location = new System.Drawing.Point(6, 16);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(76, 13);
+            this.label17.TabIndex = 20;
+            this.label17.Text = "Produkt nr.(id):";
+            // 
+            // groupBox6
+            // 
+            this.groupBox6.Controls.Add(this.label17);
+            this.groupBox6.Controls.Add(this.Zamowienie);
+            this.groupBox6.Controls.Add(this.textBox14);
+            this.groupBox6.Location = new System.Drawing.Point(284, 390);
+            this.groupBox6.Name = "groupBox6";
+            this.groupBox6.Size = new System.Drawing.Size(207, 114);
+            this.groupBox6.TabIndex = 21;
+            this.groupBox6.TabStop = false;
+            this.groupBox6.Text = "Zamów";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(805, 525);
+            this.Controls.Add(this.groupBox6);
             this.Controls.Add(this.groupBox5);
             this.Controls.Add(this.groupBox4);
             this.Controls.Add(this.textBox7);
@@ -512,6 +556,8 @@
             this.groupBox4.PerformLayout();
             this.groupBox5.ResumeLayout(false);
             this.groupBox5.PerformLayout();
+            this.groupBox6.ResumeLayout(false);
+            this.groupBox6.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -524,7 +570,7 @@
         private System.Windows.Forms.RadioButton clients;
         private System.Windows.Forms.RadioButton products;
         private System.Windows.Forms.Button dodajBtn;
-        private System.Windows.Forms.Button szukajBtn;
+        private System.Windows.Forms.Button SzukajBtn;
         private System.Windows.Forms.Button EdytujBtn;
         private System.Windows.Forms.Button UsunBtn;
         private System.Windows.Forms.GroupBox groupBox2;
@@ -560,6 +606,10 @@
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.Label label15;
         private System.Windows.Forms.TextBox textBox10;
+        private System.Windows.Forms.Button Zamowienie;
+        private System.Windows.Forms.TextBox textBox14;
+        private System.Windows.Forms.Label label17;
+        private System.Windows.Forms.GroupBox groupBox6;
     }
 }
 

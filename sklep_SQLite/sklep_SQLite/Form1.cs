@@ -9,6 +9,10 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SQLite;
 using System.IO;
+using System.Reflection.Emit;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.ListView;
+using System.Xml.Linq;
+
 
 namespace sklep_SQLite
 {
@@ -46,7 +50,7 @@ namespace sklep_SQLite
         static void CreateTable1(SQLiteConnection conn)
         {
             SQLiteCommand sqliteCommand;
-            string createSQL = "CREATE TABLE IF NOT EXISTS products(id VARCHAR(25), name VARCHAR(25),price VARCHAR(25), vat VARCHAR(25), details VARCHAR(100),AVAILABLE VARCHAR(3))";
+            string createSQL = "CREATE TABLE IF NOT EXISTS products(id VARCHAR(25), name VARCHAR(25),price VARCHAR(25), vat VARCHAR(25), details VARCHAR(100),available VARCHAR(3))";
             sqliteCommand = conn.CreateCommand();
             sqliteCommand.CommandText = createSQL;
             sqliteCommand.ExecuteNonQuery();
@@ -54,7 +58,7 @@ namespace sklep_SQLite
         static void CreateTable2(SQLiteConnection conn)
         {
             SQLiteCommand sqliteCommand;
-            string createSQL = "CREATE TABLE IF NOT EXISTS clients(id INT, name VARCHAR(25), details VARCHAR(100))";
+            string createSQL = "CREATE TABLE IF NOT EXISTS clients(id VARCHAR(25), name VARCHAR(25), details VARCHAR(100))";
             sqliteCommand = conn.CreateCommand();
             sqliteCommand.CommandText = createSQL;
             sqliteCommand.ExecuteNonQuery();
@@ -62,7 +66,7 @@ namespace sklep_SQLite
         static void CreateTable3(SQLiteConnection conn)
         {
             SQLiteCommand sqliteCommand;
-            string createSQL = "CREATE TABLE IF NOT EXISTS orders(id INT,clientid INT,creationdate VARCHAR(10), deliverydate VARCHAR(10), total INT)";
+            string createSQL = "CREATE TABLE IF NOT EXISTS orders(id VARCHAR(25),clientid VARCHAR(25),creationdate VARCHAR(10), deliverydate VARCHAR(10), total VARCHAR(25))";
             sqliteCommand = conn.CreateCommand();
             sqliteCommand.CommandText = createSQL;
             sqliteCommand.ExecuteNonQuery();
@@ -70,7 +74,7 @@ namespace sklep_SQLite
         static void CreateTable4(SQLiteConnection conn)
         {
             SQLiteCommand sqliteCommand;
-            string createSQL = "CREATE TABLE IF NOT EXISTS product_x_order(productid INT,orderid INT,quantity INT, subtotal INT)";
+            string createSQL = "CREATE TABLE IF NOT EXISTS product_x_order(productid VARCHAR(25),orderid VARCHAR(25),quantity VARCHAR(25), subtotal VARCHAR(25))";
             sqliteCommand = conn.CreateCommand();
             sqliteCommand.CommandText = createSQL;
             sqliteCommand.ExecuteNonQuery();
@@ -105,12 +109,12 @@ namespace sklep_SQLite
             return tekst;
             
         }
-        static void ReadDataZapytanie(SQLiteConnection conn, string tabela,string kolumna, string dodatkiDoZapytania)
+        public static void ReadDataZapytanie(SQLiteConnection conn, string tabela, string kolumna, string dodatkiDoZapytania)
         {
             SQLiteDataReader sqliteReader;
             SQLiteCommand sqliteCommand;
             sqliteCommand = conn.CreateCommand();
-            sqliteCommand.CommandText = ("SELECT "+kolumna+" FROM " + tabela+" "+dodatkiDoZapytania);
+            sqliteCommand.CommandText = ("SELECT " + kolumna + " FROM " + tabela + " " + dodatkiDoZapytania);
             sqliteReader = sqliteCommand.ExecuteReader();
             string tekst = "";
             for (int i = 0; i < sqliteReader.FieldCount; i++)
@@ -132,6 +136,7 @@ namespace sklep_SQLite
             }
             MessageBox.Show(tekst);
         }
+
         static void EditDataZapytanie(SQLiteConnection conn, string tabela, string kolumna,string nowaWartosc, string dodatkiDoZapytania)
         {
             SQLiteDataReader sqliteReader;
@@ -191,32 +196,74 @@ namespace sklep_SQLite
         {
             SQLiteCommand sqliteCommand;
             sqliteCommand = conn.CreateCommand();
-            sqliteCommand.CommandText = ("INSERT INTO products(id,name,price,vat,details,available) VALUES ("+id+","+name+","+price+","+vat+","+details+","+available+")");
+            sqliteCommand.CommandText = ("INSERT INTO products(id,name,price,vat,details,available) VALUES ('"+id+"','"+name+"','"+price+"','"+vat+"','"+details+"','"+available+"')");
             sqliteCommand.ExecuteNonQuery();
         }
         static void InsertData2(SQLiteConnection conn, string id, string name, string details)
         {
             SQLiteCommand sqliteCommand;
             sqliteCommand = conn.CreateCommand();
-            sqliteCommand.CommandText = ("INSERT INTO clients(id,name,details) VALUES ("+id +","+name+","+details+")");
+            sqliteCommand.CommandText = ("INSERT INTO clients(id,name,details) VALUES ('"+id+"','"+name+"','"+details+"')");
             sqliteCommand.ExecuteNonQuery();
         }
         static void InsertData3(SQLiteConnection conn, string id, string clientid, string creationdate, string deliverydate, string total)
         {
             SQLiteCommand sqliteCommand;
             sqliteCommand = conn.CreateCommand();
-            sqliteCommand.CommandText = ("INSERT INTO orders(id,clientid, creationdate, deliverydate, total) VALUES ("+id+","+clientid+","+creationdate+","+deliverydate+","+total+")");
+            sqliteCommand.CommandText = ("INSERT INTO orders(id,clientid, creationdate, deliverydate, total) VALUES ('"+id+"','"+clientid+"','"+creationdate+"','"+deliverydate+"','"+total+"')");
             sqliteCommand.ExecuteNonQuery();
         }
         static void InsertData4(SQLiteConnection conn, string productid, string orderid, string quantity, string subtotal)
         {
             SQLiteCommand sqliteCommand;
             sqliteCommand = conn.CreateCommand();
-            sqliteCommand.CommandText = ("INSERT INTO product_x_order(productid,orderid, quantity, subtotal) VALUES ("+productid+","+orderid+","+quantity+","+subtotal+")");
+            sqliteCommand.CommandText = ("INSERT INTO product_x_order(productid,orderid, quantity, subtotal) VALUES ('"+productid+"','"+orderid+"','"+quantity+"','"+subtotal+"')");
             
             sqliteCommand.ExecuteNonQuery();
         }
         
+        
+
+        
+        static bool CzyMoznaZamowic(SQLiteConnection conn, string id)
+        {
+            SQLiteDataReader sqliteReader;
+            SQLiteCommand sqliteCommand;
+            sqliteCommand = conn.CreateCommand();
+            sqliteCommand.CommandText = ("SELECT available FROM products WHERE id="+id);
+            sqliteReader = sqliteCommand.ExecuteReader();
+            string readerString="";
+            while (sqliteReader.Read())
+            {
+                 readerString = sqliteReader.GetString(0);
+                //MessageBox.Show(readerString);
+            }
+            if(readerString == "TAK")
+            {
+                return true;
+            }else
+            {
+                return false;
+            }
+
+
+        }
+        public string pobierzId()
+        {
+            string id;
+            id = textBox14.Text;
+                return id;
+        }
+
+        static void Zamow(SQLiteConnection conn, string id)
+        {
+            SQLiteCommand sqliteCommand;
+            sqliteCommand = conn.CreateCommand();
+            sqliteCommand.CommandText = ("INSERT INTO orders(id,clientid, creationdate, deliverydate, total) VALUES ('" + id + "','" + "1" + "','" + DateTime.Now + "','" + DateTime.Now + "','" + "0" + "')");
+            sqliteCommand.ExecuteNonQuery();
+        }
+
+
 
 
         private void products_CheckedChanged(object sender, EventArgs e)
@@ -258,7 +305,8 @@ namespace sklep_SQLite
             else if(label1.Text == "clients")
             {
                 return "clients";
-            }else if(label1.Text == "orders")
+            }
+            else if(label1.Text == "orders")
             {
                 return "orders";
             }
@@ -370,23 +418,42 @@ namespace sklep_SQLite
             }
         }
 
-        private void szukajBtn_Click(object sender, EventArgs e)
+        private void SzukajBtn_Click(object sender, EventArgs e)
         {
             
             ReadDataZapytanie(sqliteConnection, wybranaTabla(), wybranaKolumnaSelect(), dodatkiDoZapytaniaSelect());
+            zarzadzanielabelami();
             
         }
 
         private void EdytujBtn_Click(object sender, EventArgs e)
         {
             EditDataZapytanie(sqliteConnection, wybranaTabla(),wybranaKolumnaUpdate(), nowaWartoscUpdate(), dodatkiDoZapytaniaUpdate());
+            zarzadzanielabelami();
         }
 
         private void UsunBtn_Click(object sender, EventArgs e)
         {
             DeleteData(sqliteConnection, wybranaTabla(), dodatkiDoZapytaniaDelete());
+            zarzadzanielabelami();
         }
 
+        private void zamowienie_Click(object sender, EventArgs e)
+        {
+            pobierzId();
 
+            if (CzyMoznaZamowic(sqliteConnection, pobierzId())) 
+            {
+
+                MessageBox.Show("Zamowiono");
+            }
+            else
+            {
+                MessageBox.Show("Nie mozna zamowic");
+            }
+
+            zarzadzanielabelami();
+            Zamow(sqliteConnection, pobierzId());
+        }
     }
 }
