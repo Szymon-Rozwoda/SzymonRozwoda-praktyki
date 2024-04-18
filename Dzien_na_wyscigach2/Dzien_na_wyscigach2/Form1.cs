@@ -140,3 +140,5 @@ namespace Dzien_na_wyscigach2
     }
     }
 }
+dbeaver   
+datagrip
