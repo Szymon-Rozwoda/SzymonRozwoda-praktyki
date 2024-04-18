@@ -213,6 +213,7 @@ namespace sklep_SQLite
             SQLiteCommand sqliteCommand;
             sqliteCommand = conn.CreateCommand();
             sqliteCommand.CommandText = ("INSERT INTO product_x_order(productid,orderid, quantity, subtotal) VALUES ("+productid+","+orderid+","+quantity+","+subtotal+")");
+            
             sqliteCommand.ExecuteNonQuery();
         }
         
