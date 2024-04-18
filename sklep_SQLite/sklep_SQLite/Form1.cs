@@ -262,6 +262,13 @@ namespace sklep_SQLite
             sqliteCommand.CommandText = ("INSERT INTO orders(id,clientid, creationdate, deliverydate, total) VALUES ('" + id + "','" + "1" + "','" + DateTime.Now + "','" + DateTime.Now + "','" + "0" + "')");
             sqliteCommand.ExecuteNonQuery();
         }
+        static void UsunZamowione(SQLiteConnection conn, string id)
+        {
+            SQLiteCommand sqliteCommand;
+            sqliteCommand = conn.CreateCommand();
+            sqliteCommand.CommandText = ("DELETE FROM " + "products " + "WHERE id ="+id);
+            sqliteCommand.ExecuteNonQuery();
+        }
 
 
 
@@ -444,7 +451,8 @@ namespace sklep_SQLite
 
             if (CzyMoznaZamowic(sqliteConnection, pobierzId())) 
             {
-
+                Zamow(sqliteConnection, pobierzId());
+                UsunZamowione(sqliteConnection, pobierzId());
                 MessageBox.Show("Zamowiono");
             }
             else
@@ -453,7 +461,7 @@ namespace sklep_SQLite
             }
 
             zarzadzanielabelami();
-            Zamow(sqliteConnection, pobierzId());
+            
         }
     }
 }
