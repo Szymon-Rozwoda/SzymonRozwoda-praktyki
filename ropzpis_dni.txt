@@ -3,7 +3,7 @@
 26.03.2024 - Teoria - algorytmy szyfrowania, kompresja, kopie zapasowe, wirtualizacja
 27.03.2024 - Teoria - systemy wersjonowania, serwer NAS, .NET Framework, RAID, metody przechowywania plików, 
 28.03.2024 - Teoria - pliki systemowe, Protokoły IP, rozszerznia plików, procesy i wątki, rodzaje dysków, BIOS
-29.03.2024 - Przygotowanie do pracy z książką, przygotowanie reozytorium i visiual studio
+29.03.2024 - Przygotowanie do pracy z książką, przygotowanie reozytorium i visiual studio. Zapoznanie się ze składnią języka C#
 
 ---Drugi tydzień---
 1.04.2024 - --święto--
@@ -44,7 +44,21 @@
 
 17.04.2024 - odczyt, zapis i okna dialogowe. Program do zarządzania wymówkami. Dzięki przyciskowi z odczytem plików można otworzyć zapisaną wymówkę, a za pomocą przycisku z zapisem można obecną wymówkę zapisać do określonego folderu. Jest też przycisk do otworzenia losej wymówki.
 (zarzadzanie_wymowkami)
+
 18.04.2024 - duży projekt podsumowujący dotychczasową pracę zawierający wszystkie poprzednie zagadnienia. Gra turowa z kilkoma poziomami, w której zadaniem jest pokonanie przeciwników na planszy za pomoca broni podniesionych podczas rozgrywki, każda klasa występująca bezpośrednio na planszy dziedziczy po specjalnej klasie abstrakcyjnej, a formularz łączy planszę, inwentarz i kontrolki ruchu
 (wyprawa2)
-19.04.2024 - 
+
+19.04.2024 - Obsługa wyjatków za pomocą try i catch. Testowy program pokazujący działanie bloku try/catch. Finalizator a dispose
+
+
+
+LINQ - Program do zarządzania danymi kolekcji, dzięki użyciu LINQ
+
+async, await i serializacja kontraktu danych ???
+
+sktruktury
+
+MVVM - Program, kilkuwarstwowy. Górna warstwa(widoku) to animacja obiektów, dolna warstwa zajmuje się przechowaniem informacji o położeniu obiektów oraz wywołuje zdarzenie, gdy obiekty zmienią położenie, ostatnia warstwa modelu widoku łączy ze soba poprzednie warstwy
+
+
 
