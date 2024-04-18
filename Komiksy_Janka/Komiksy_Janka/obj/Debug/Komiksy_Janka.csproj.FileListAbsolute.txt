@@ -1,0 +1,6 @@
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Komiksy_Janka\Komiksy_Janka\obj\Debug\Komiksy_Janka.csproj.AssemblyReference.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Komiksy_Janka\Komiksy_Janka\obj\Debug\MainPage.g.cs
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Komiksy_Janka\Komiksy_Janka\obj\Debug\QueryDetail.g.cs
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Komiksy_Janka\Komiksy_Janka\obj\Debug\App.g.cs
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Komiksy_Janka\Komiksy_Janka\obj\Debug\Komiksy_Janka_MarkupCompile.cache
+C:\Users\xopero\Documents\GitHub\SzymonRozwoda-praktyki\Komiksy_Janka\Komiksy_Janka\obj\Debug\Komiksy_Janka_MarkupCompile.lref
